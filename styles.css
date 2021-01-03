@@ -97,13 +97,13 @@
     padding: 20px 40px 40px;
     max-width: 500px;
     text-align: left;
-    background: #11698E;
+    background: #93ABD3;
     border-bottom: 4px solid #ccc;
     border-radius: 8px;
     transition: all .5s;
   }
   .card:hover {
-    border-color: #E6E6E6;
+    border-color: #;
   }
   
   
