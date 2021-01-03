@@ -81,7 +81,7 @@
     transform: scale(2) rotate(360deg);
   }
   .tag {
-    background-color: #11698E;
+    background-color: #BEDCFA;
     color: black;
     padding: 10px;
     border-radius: 5px;
@@ -89,7 +89,7 @@
     margin: 10px auto;
   } 
   .location {
-    background-color: #11698E;
+    background-color: #BEDCFA;
     color: black;
   }
   .card {
@@ -115,7 +115,7 @@
   .skills li {
     border-radius: 6px;
     display: inline-block;
-    background: #A07676;
+    background: #11698E;
     color: white;
     padding: 5px 10px;
     margin: 2px;
@@ -126,7 +126,7 @@
   }
   
   #contact-section {
-    background-color: #E6E6E6;
+    background-color: #11698E;
     display: block;
     margin-top: 20px;
     letter-spacing: 2px;
