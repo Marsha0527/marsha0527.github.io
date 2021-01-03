@@ -97,7 +97,7 @@
     padding: 20px 40px 40px;
     max-width: 500px;
     text-align: left;
-    background: #D8AC9C;
+    background: #11698E;
     border-bottom: 4px solid #ccc;
     border-radius: 8px;
     transition: all .5s;
@@ -115,7 +115,7 @@
   .skills li {
     border-radius: 6px;
     display: inline-block;
-    background: #11698E;
+    background: #BEDCFA;
     color: white;
     padding: 5px 10px;
     margin: 2px;
