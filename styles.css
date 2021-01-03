@@ -33,7 +33,7 @@
     text-align: center;
   }
   .nav {
-    background-color: #A07676;
+    background-color: #11698E;
     display: flex;
     justify-content: space-around;
     font-weight: 700;
@@ -103,7 +103,7 @@
     transition: all .5s;
   }
   .card:hover {
-    border-color: #A07676;
+    border-color: #E6E6E6;
   }
   
   
@@ -122,18 +122,18 @@
   }
   
   .skills li:nth-child(odd) {
-    background: #825959;
+    background: #E6E6E6;
   }
   
   #contact-section {
-    background-color: #D8AC9C;
+    background-color: #E6E6E6;
     display: block;
     margin-top: 20px;
     letter-spacing: 2px;
      }
   
   footer {
-    background-color: #EFD9D1;
+    background-color: #E6E6E6;
     width: 100%;
     min-height: 30px;
     padding: 20px 0 40px 20px;
