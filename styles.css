@@ -104,7 +104,7 @@
     transition: all .5s;
   }
   .card:hover {
-    border-color: #AAAAAA;
+    border-color: black;
   }
   
   
