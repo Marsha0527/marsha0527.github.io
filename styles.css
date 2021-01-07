@@ -112,6 +112,7 @@
     flex-direction: row-reverse;
     background-color: black;
     color: white;
+    height: 140px;
 }
   
   ul.skills {
