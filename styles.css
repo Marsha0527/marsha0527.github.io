@@ -109,7 +109,7 @@
   
 
 
-.flex-container {
+#proj-img {
     display: flex;
     flex-direction: row-reverse;
     background-color: BEDCFA;
