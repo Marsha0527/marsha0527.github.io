@@ -110,6 +110,8 @@
 .flex-containr {
     display: flex;
     flex-directon: row-reverse;
+    align-items: flex-start;
+}
 
   ul.skills {
     padding: 0;
