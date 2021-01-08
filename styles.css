@@ -107,7 +107,7 @@
     border-color: black;
   }
   
-.flex-containr {
+.flex-container {
     display: flex;
     flex-directon: column;
     align-items: flex-start;
