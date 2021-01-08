@@ -107,16 +107,10 @@
     border-color: black;
   }
   
-
-
-#proj-img {
+.flex-containr {
     display: flex;
-    flex-direction: row-reverse;
-    background-color: BEDCFA;
-    color: black;
-    height: 140px;
-}
-  
+    flex-directon: row-reverse;
+
   ul.skills {
     padding: 0;
     text-align: center;
