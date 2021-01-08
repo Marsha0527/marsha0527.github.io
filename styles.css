@@ -109,7 +109,7 @@
   
 .flex-containr {
     display: flex;
-    flex-directon: row-reverse;
+    flex-directon: column;
     align-items: flex-start;
 }
 
