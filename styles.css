@@ -111,7 +111,7 @@
     display: flex;
     flex-directon: column;
     align-items: flex-start;
-    transform: scale(2) 360 rotate;
+    transform: scale(2)  rotate(360deg);
 }
 
   ul.skills {
