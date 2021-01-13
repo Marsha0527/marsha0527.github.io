@@ -114,6 +114,10 @@
     transform: scale(2)  rotate(360deg);
 }
 
+.flex-container .img:hover {
+    transform: scale(2) rotate(360deg);
+}
+
   ul.skills {
     padding: 0;
     text-align: center;
