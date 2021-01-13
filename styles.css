@@ -107,6 +107,21 @@
     border-color: black;
   }
   
+.flip-box {
+    background-color: transparent;
+    border: 1px solid black;
+}
+
+.flip-box-inner {
+    position: relative;
+    text-align: center;
+    transform-style: preserve-3d;
+}
+
+
+
+
+
 .flex-container {
     display: flex;
     flex-directon: column;
