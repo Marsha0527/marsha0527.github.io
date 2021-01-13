@@ -115,22 +115,23 @@
 .flip-box-inner {
     position: relative;
     text-align: center;
+    transition: transform 0.8s;
     transform-style: preserve-3d;
 }
 
-
-
-
-
-.flex-container {
-    display: flex;
-    flex-directon: column;
-    align-items: flex-start;
+.flip-box-front, flip-box-back {
+    position: absolute;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
 }
 
-.flex-container .img:hover {
-    transform: scale(2) rotate(360deg);
+.flip-box-back {
+     background-color: gray;
+    color: white;
+    transform: rotateY(180deg);
 }
+
+
 
   ul.skills {
     padding: 0;
