@@ -14,7 +14,10 @@
      }
 
 .module {
+    --x: 0px;
+    --y: 0px;
     background-image: url('marsha0527.github.io/images/majid-gheidarlou-LReBBb3prqg-unsplash.jpg');
+    background-position: var(--x) var(--y);
 }
   /* Link Styles */
   
