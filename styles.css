@@ -132,10 +132,18 @@ ul.skills {
     margin: 2px;
   }
   
+.skills li:hover {
+    color: #11698#;
+}
+
   .skills li:nth-child(odd) {
     background: #E6E6E6;
   }
   
+.skills li:nt-child(odd):hover{
+    color: #92817A;
+}
+
   #contact-section {
     background-color: #BEDCFA;
     display: block;
