@@ -112,13 +112,6 @@
   .card:hover {
     border-color: black;
   }
-  
-.container {
-    display: flex;
-    direction: column;
-    align-items: center;
-   
-}
 
 ul.skills {
     padding: 0;
