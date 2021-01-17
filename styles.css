@@ -115,9 +115,7 @@
 
 .container {
     display: flex;
-    width: 920;
-    height: auto;
-    margin: 30px auto;
+  
 }
 .box {
     width: 32%;
