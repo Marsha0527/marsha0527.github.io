@@ -112,19 +112,12 @@
   .card:hover {
     border-color: black;
   }
-
-
   
+.flex-container {
+    display: flex;
+
 }
-.box {
-    width: 32%;
-    height: auto;
-    border: 1px solid;
-    margin-right: 1%;
-    background: white;
-    border-radius: 10px;
-    transition: 0.9;
-    
+ 
 ul.skills {
     padding: 0;
     text-align: center;
