@@ -15,57 +15,325 @@ crossorigin="anonymous">
   <title>Marsha Woods</title>
 </head>
 
-      <body>
-        <div class="main-nav ">
-            <ul class="nav">
-              <li class="name">Marsha Woods</li>
-              <li><a href="index.html">Home</a></li>
-              <li><a href="experience.html">Experience</a></li>
-            </ul>
-        </div>
-        <br>
-
-        <header>
-            <img src="../images/Me.jpg" alt="Me" class="profile-image">
-            <h1 class="tag name">Hello, I'm Marsha Woods</h1>
-        <p class="tag location">My home is the Dallas-Fort Worth, Tx area</p>
-</header>
-
-<main class="flex">
-    <div class="card">
-<h2>Background</h2>
-<p>I am a frontend developer specializing in HTML, CSS and JavaScript.  I have establised a website with
-	clean lines that is responsive on all devices.  Using HTML and CSS and collaborating with the 
-	client, the look he needed was achieved.
-	</p>
-    </div>
-
-    <div class="card">
-        <h2>Looking Forward</h2>
-        <p> With the experience that I have gained working on projects, I am in search of a 
-                 company in which I can grow with.  I am excited to be able to collaborate excel and grow with a team. 
-		 </p> 
-      </div>
-</main>
-
-<footer>
-<ul>
-    <li><a href="https://twitter.com/MarshaW97482466?ref_src=twsrc%5Etfw" 
-      class="twitter-follow-button" data-show-count="false">Follow @MarshaW97482466</a>
-      <script async src="https://platform.twitter.com/widgets.js" charset="utf-8">
-      </script></li>
-
-    <li><i class="fab fa-linkedin"><a href= "marsha-woods-0b2969105">
-      <a class="LI-simple-link" href='https://www.linkedin.com/in/marsha-woods-0b2969105?trk=profile-badge'>Marsha Woods</a>
-      </i></a>
+<body data-spy="scroll" data-target="#main-nav" id="home">
+  <nav class="navbar navbar-expand-lg bg-dark navbar-dark fixed-top" id="main-nav">
+<div class="container">
+  <a href="index.html" class="navbar-brand">LoopLab</a>
+   <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+     <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarCollapse">
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="#home">Home</a>
       </li>
-   </ul>
-    
-<br>
-<p> Copyright &copy; 2021, Marsha Woods</p>
+      <li class="nav-item">
+        <a class="nav-link" href="#explore-head-section">Explore</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#create-head-section">Create</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link"  href="#share-head-section">Share</a>
+      </li>
+    </ul>
+  </div>
+</div>
+</nav>
+  
+<!--  HOME SECTION  -->
+  <header id="home-section">
+    <div class="dark-overlay">
+      <div class="home-inner container">
+        <div class="row">
+          <div class="col-lg-8 d-none d-lg-block">
+            <h1 class="display-4">Build <strong>social profiles </strong>and gain 
+              revenue <strong>profits</strong></h1>
+              <div class="d-flex">
+                <div class="p-4 align-self-start">
+                  <i class="fas fa-check fa-2x"></i>
+                </div>
+                <div class="p-4 align-self-end">
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. In impedit 
+                  earum obcaecati rem vero nobis?
+                </div>
+              </div>
+              <div class="d-flex">
+                <div class="p-4 align-self-start">
+                  <i class="fas fa-check fa-2x"></i>
+                </div>
+                <div class="p-4 align-self-end">
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. In impedit 
+                  earum obcaecati rem vero nobis?
+                </div>
+              </div>
+              <div class="d-flex">
+                <div class="p-4 align-self-start">
+                  <i class="fas fa-check fa-2x"></i>
+                </div>
+                <div class="p-4 align-self-end">
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. In impedit 
+                  earum obcaecati rem vero nobis?
+                </div>
+              </div>
+           </div>
+
+<div class="col-lg-4">
+  <div class="card bg-primary text-center card-form">
+    <div class="card-body">
+      <h3>Sign Up Today</h3>
+      <p>Please fill out this form to register</p>
+      <form>
+        <div class="form-group">
+          <input type="text" class="form-control form-control-lg" placeholder="Username">
+        </div>
+        <div class="form-group">
+          <input type="email" class="form-control form-control-lg" placeholder="Email">
+        </div>
+        <div class="form-group">
+          <input type="password" class="form-control form-control-lg" placeholder="Password">
+        </div>
+        <div class="form-group">
+          <input type="password" class="form-control form-control-lg" placeholder="Confirm Password">
+        </div>
+        <input type="submit" value="Submit" class="btn btn-outline-light btn-block">
+      </form>
+    </div>
+  </div>
+</div>
+</div>
+      </div>
+    </div>
+  </header>
+
+<!--  EXPLORE HEAD  -->
+<section id="explore-head-section">
+  <div class="container">
+    <div class="row">
+      <div class="col text-center py-5">
+        <h1 class="display-4">Explore</h1>
+        <p class="lead">Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+           Ratione ullam dolor reiciendis minima distinctio magni.</p>
+           <a href="#" class="btn btn-outline-secondary">Find Out More</a>
+       </div>
+    </div>
+  </div>
+</section>
+
+<!--  EXPLORE SECTION  -->
+<section id="explore-section" class="bg-light text-muted py-5">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <img src="img/looplab/explore-section1.jpg" alt="" class="img-fluid mb-3 rounded-circle">
+      </div>
+<div class="col-md-6">
+<h3>Explore & Connect</h3>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique modi quia quo illo, 
+  excepturi nulla?</p>
+  <div class="d-flex">
+    <div class="p-4 align-self-start">
+      <i class="fas fa-check fa-2x"></i>
+    </div>
+    <div class="p-4 align-self-end">
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque a sint iste fugiat 
+      molestias doloremque.
+    </div>
+</div>
+<div class="d-flex">
+  <div class="p-4 align-self-start">
+    <i class="fas fa-check fa-2x"></i>
+  </div>
+  <div class="p-4 align-self-end">
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque a sint iste fugiat 
+    molestias doloremque.
+  </div>
+</div>
+</div>
+</div>
+      </div>
+    </section>
+
+<!--  CREATE HEAD  -->
+<section id="create-head-section" class="bg-primary">
+  <div class="container">
+    <div class="row">
+      <div class="col text-center py-5">
+        <h1 class="display-4">Create</h1>
+        <p class="lead">Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+           Ratione ullam dolor reiciendis minima distinctio magni.</p>
+           <a href="#" class="btn btn-outline-light">Find Out More</a>
+       </div>
+    </div>
+  </div>
+</section>
+
+<!--  CREATE SECTION  -->
+<section id="create-section" class="py-5">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 order-2">
+        <img src="img/looplab/create-section1.jpg" alt="" class="img-fluid mb-3 rounded-circle">
+      </div>
+<div class="col-md-6 order-1">
+<h3>Create Your Passion</h3>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique modi quia quo illo, 
+  excepturi nulla?</p>
+  <div class="d-flex">
+    <div class="p-4 align-self-start">
+      <i class="fas fa-check fa-2x"></i>
+    </div>
+    <div class="p-4 align-self-end">
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque a sint iste fugiat 
+      molestias doloremque.
+    </div>
+</div>
+<div class="d-flex">
+  <div class="p-4 align-self-start">
+    <i class="fas fa-check fa-2x"></i>
+  </div>
+  <div class="p-4 align-self-end">
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque a sint iste fugiat 
+    molestias doloremque.
+  </div>
+</div>
+</div>
+</div>
+      </div>
+    </section>
+
+<!--  SHARE HEAD  -->
+<section id="share-head-section" class="bg-primary">
+  <div class="container">
+    <div class="row">
+      <div class="col text-center py-5">
+        <h1 class="display-4">Share</h1>
+        <p class="lead">Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+           Ratione ullam dolor reiciendis minima distinctio magni.</p>
+           <a href="#" class="btn btn-outline-light">Find Out More</a>
+       </div>
+    </div>
+  </div>
+</section>
+
+<!--  SHARE SECTION  -->
+<section id="share-section" class="bg-light text-muted py-5">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <img src="img/looplab/share-section1.jpg" alt="" class="img-fluid mb-3 rounded-circle">
+      </div>
+<div class="col-md-6">
+<h3>Share What You Create</h3>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique modi quia quo illo, 
+  excepturi nulla?</p>
+  <div class="d-flex">
+    <div class="p-4 align-self-start">
+      <i class="fas fa-check fa-2x"></i>
+    </div>
+    <div class="p-4 align-self-end">
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque a sint iste fugiat 
+      molestias doloremque.
+    </div>
+</div>
+<div class="d-flex">
+  <div class="p-4 align-self-start">
+    <i class="fas fa-check fa-2x"></i>
+  </div>
+  <div class="p-4 align-self-end">
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque a sint iste fugiat 
+    molestias doloremque.
+  </div>
+</div>
+</div>
+</div>
+      </div>
+    </section>
+
+  <!--  FOOTER   -->
+<footer id="main-footer" class="bg-dark">
+<div class="container">
+  <div class="row">
+    <div class="col text-center py-4">
+      <h3>LoopLab</h3>
+      <p>Copyright &copy;<span id="year"></span></p>
+<button class="btn btn-primary" data-toggle="modal" data-target="#contactModal">
+  Contact Us</button>
+    </div>
+  </div>
+</div>
 </footer>
-	      
-<script src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll@14.0.0/dist/smooth-scroll.polyfills.min.js"></script>
-	      <script src="main.js"></script>
+
+<!--  CONTACT MODAL  -->
+<div class="modal fade text-dark" id="contactModal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Contact Us</h5>
+<button class="close" data-dismiss="modal">
+  <span>&times; </span>
+</button>
+        </div>
+        <div class="modal-body">
+          <form>
+            <div class="form-group">
+              <label for="name" >Name</label>
+              <input type="text" class="form-control">
+            </div>
+            <div class="form-group">
+              <label for="email" >Email</label>
+              <input type="email" class="form-control">
+            </div>
+            <div class="form-group">
+              <label for="message" >Message</label>
+              <textarea class="form-control"></textarea>
+            </div>
+          </form>
+        </div>
+        <div class="modal-footer">
+          <button class="btn btn-primary btn-block">Submit</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+
+  <script src="http://code.jquery.com/jquery-3.3.1.min.js" 
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" 
+  integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" 
+  integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T"
+    crossorigin="anonymous"></script>
+
+  <script>
+    // Get the current year for the copyright
+    $('#year').text(new Date().getFullYear());
+
+//  Init Scrollspy
+$('body').scrollspy({target: '#main-nav'});
+
+//  Smooth Scrolling
+$("#main-nav a").on('click', function (event) {
+  if (this.hash !=="") {
+    event.preventDefault();
+
+    const hash = this.hash;
+
+    $('html, body').animate({
+      scrollTop: $(hash).offset().top
+    }, 800, function () {
+
+      window.location.hash = hash;
+    });
+  }
+  });
+  </script>
 </body>
+
 </html>
