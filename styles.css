@@ -33,14 +33,14 @@
   
   .main-nav {
     width: 100%;
-    background:#BEDCFA;
+    background:#F1948A;
     min-height: 30px;
     padding: 10px;
     position: fixed;
     text-align: center;
   }
   .nav {
-    background-color: #11698E;
+    background-color: #FADVD8;
     display: flex;
     justify-content: space-around;
     font-weight: 700;
@@ -88,7 +88,7 @@
     transform: scale(2) rotate(360deg);
   }
   .tag {
-    background-color: #BEDCFA;
+    background-color: #F5B7B1;
     color: black;
     padding: 10px;
     border-radius: 5px;
@@ -104,7 +104,7 @@
     padding: 20px 40px 40px;
     max-width: 500px;
     text-align: left;
-    background: #93ABD3;
+    background: #F5B7B1;
     border-bottom: 4px solid #ccc;
     border-radius: 8px;
     transition: all .5s;
@@ -126,25 +126,25 @@ ul.skills {
   .skills li {
     border-radius: 6px;
     display: inline-block;
-    background: #BEDCFA;
+    background: #F5B7B1;
     color: black;
     padding: 5px 10px;
     margin: 2px;
   }
 
   .skills li:nth-child(odd) {
-    background: #E6E6E6;
+    background: #FADBD8;
   }
 
   #contact-section {
-    background-color: #BEDCFA;
+    background-color: #FADBD8;
     display: block;
     margin-top: 20px;
     letter-spacing: 2px;
      }
   
   footer {
-    background-color: #BEDCFA;
+    background-color: #F1948A;
     width: 100%;
     min-height: 30px;
     padding: 20px 0 40px 20px;
