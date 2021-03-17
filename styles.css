@@ -4,12 +4,12 @@ body {
 }
 
 .navbar {
-    border-bottom: #008ed6 3px solid;
+    border-bottom: #F1948A 3px solid;
     opacity: 0.8
 }
 
 #home-section {
-    background: url(/callie-rae-fM2Ajc7vjPo-unsplash.jpg);
+    background: url(callie-rae-fM2Ajc7vjPo-unsplash.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -29,14 +29,14 @@ body {
     padding-top: 100px;
 }
 
-#home-section .fas, #create-section .fas {
+#home-section .fas, #contact-section .fas {
     color: #008ed6;
 background: #fff;
 padding: 5px;
 border-radius: 5px;
 }
 
-#explore-section .fas, #share-section .fas {
+#projects-section .fas, #share-section .fas {
     background: #333;
     color: #fff;
     padding: 5px;
