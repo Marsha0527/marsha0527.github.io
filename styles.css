@@ -5,7 +5,7 @@ body {
 
 .navbar {
     border-bottom: #F1948A 3px solid;
-    opacity: 0.8
+    opacity: 0.8;
 }
 
 #home-section {
@@ -27,13 +27,6 @@ body {
 
 #home-section .home-inner {
     padding-top: 100px;
-}
-
-#home-section .fas, #contact-section .fas {
-    color: #FADBD8;
-background: #fff;
-padding: 5px;
-border-radius: 5px;
 }
 
 #projects-section .fas, #share-section .fas {
