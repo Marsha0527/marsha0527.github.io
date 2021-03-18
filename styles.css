@@ -9,11 +9,12 @@ body {
 }
 
 #home-section {
-    background-img: url(/charlie-green-idsA7c7PRxw-unsplash.jpg);
+    background-img: url('/images/bram-naus-n8Qb1ZAkK88-unsplash.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
     min-height: 700px;
+    opacity: 04;
 }
 
 #home-section .overlay {
