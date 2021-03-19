@@ -74,6 +74,13 @@ h5 {
     border: 10px solid #FEF9E7;
 }
 
+#contact-section .fas {
+    color: #008ed6;
+    background: #fff;
+    padding: 5px;
+    border-radius: 5px;
+}
+
 #main-footer {
     border-top: #F4D03F 7px solid;
 }
