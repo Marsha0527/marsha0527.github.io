@@ -54,7 +54,21 @@ h5 {
     padding: 5px;
     border-radius: 5px;
 }
+
+#contact-head-section .fab fa-css3 {
+    color: #2965f1;
+    background: #fff;
+    padding: 5px;
+    border-radius: 5px;
+}
     
+#contact-head-section .fab fa-js-square {
+    color: #f0db4f;
+    background: #fff;
+    padding: 5px;
+    border-radius: 5px;
+}
+
 #contact-section img{
     border: 10px solid #FEF9E7;
 }
