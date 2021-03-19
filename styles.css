@@ -9,7 +9,7 @@ body {
 }
 
 #home-section {
-    background-img: url('images/bram-naus-n8Qb1ZAkK88-unsplash.jpg');
+    background-img: url('/bram-naus-n8Qb1ZAkK88-unsplash.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
