@@ -53,6 +53,7 @@ h5 {
     background: #fff;
     padding: 5px;
     border-radius: 5px;
+    float: left;
 }
 
 #contact-head-section .fab fa-css3 {
