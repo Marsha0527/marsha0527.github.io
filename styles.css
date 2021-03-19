@@ -46,6 +46,10 @@ body {
       color: #000;
 }
   
+#contact-section img {
+    border: 3px solid #FEF9E7;
+}
+
 #main-footer {
     border-top: #F4D03F 7px solid;
 }
