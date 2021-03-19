@@ -9,7 +9,7 @@ body {
 }
 
 #home-section {
-    background: url(charlie-green-idsA7c7PRxw-unsplash.jpg);
+    background: url(/images/blake-connally-IKUYGCFmfw4-unsplash.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -36,8 +36,6 @@ body {
 }
 
 #projects-section .card-columns {
-    display: flex;
-    flex-direction: column;
       border: 3px solid #000;
 }
 
