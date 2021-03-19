@@ -30,6 +30,14 @@ body {
     padding-top: 100px;
 }
 
+h1 {
+    float: right;
+}
+
+h5 {
+    float: right;
+}
+
 #projects-head-section {
     background-color: #D6EAF8;
     color: #000;
