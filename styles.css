@@ -28,13 +28,17 @@ body {
     text-color: #F4D03F;
 }
 
- .fab {
-    color: #e34c26;
-    background: #fff;
+
+.fab fa-js-square {
+    color: #2965F1;
+    background: #000;
     padding: 5px;
     border-radius: 5px;
 }
-
+    
+    
+    
+    
 .d-flex {
     display: flex;
     flex-direction: columns;
@@ -53,7 +57,7 @@ body {
 }
 
 #home-section .home-inner {
-    text-color: #FEF9E7;
+    text-color: #F4D03F;
     padding-top: 100px;
 }
 
@@ -67,23 +71,15 @@ body {
     flex-direction: columns;
     align-content: center;
     justify-content: center;
-    
-      border: 3px solid #000;
+    border: 3px solid #000;
 }
 
   #contact-head-section {
       background-color: #D6EAF8;
       color: #000;
 }
-  
-#contact-head-section .fab fa-css3 {
-    color: #2965f1;
-    background: #fff;
-    padding: 5px;
-    border-radius: 5px;
-}
     
-#contact-head-section .fab fa-js-square {
+#contact-head-section 
     color: #f0db4f;
     background: #fff;
     padding: 5px;
@@ -92,6 +88,13 @@ body {
 
 #contact-section img{
     border: 10px solid #FEF9E7;
+}
+
+ .fab {
+    color: #e34c26;
+    background: #000;
+    padding: 5px;
+    border-radius: 5px;
 }
 
 #contact-section .fas {
