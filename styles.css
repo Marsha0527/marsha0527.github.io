@@ -16,8 +16,8 @@ body {
     background-size: cover;
     background-attachment: fixed;
     min-height: 700px;
-    
-    opacity: 0.9;
+    color: #FEF9E7;
+    opacity: 0.8;
 }
 
  .home-inner container .fab {
