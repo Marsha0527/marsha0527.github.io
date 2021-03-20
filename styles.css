@@ -19,7 +19,7 @@ body {
     opacity: 0.5;
 }
 
-#home-section .fab {
+#home-section .home-inner container .fab {
     color: #e34c26;
     background: #fff;
     padding: 5px;
