@@ -10,7 +10,7 @@ body {
     opacity: 0.9;
 }
 
-.nav-item {
+#main-nav .nav-item {
     color: #008ed6;
 }
 
