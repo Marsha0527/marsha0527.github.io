@@ -17,15 +17,14 @@ body {
     background-attachment: fixed;
     min-height: 700px;
     color: #FEF9E7;
-    opacity: 0.8;
+    opacity: 0.9;
 }
 
- .home-inner container .fab {
+ .fab {
     color: #e34c26;
     background: #fff;
     padding: 5px;
     border-radius: 5px;
-    float: left;
 }
 
 #home-section .overlay {
@@ -40,10 +39,6 @@ body {
 #home-section .home-inner {
     text-color: #FEF9E7;
     padding-top: 100px;
-}
-
-h5 {
-    color: #FEF9E7;
 }
 
 #projects-head-section {
