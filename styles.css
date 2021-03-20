@@ -59,6 +59,11 @@ body {
 }
 
 #projects-section .card-columns {
+    display: flex;
+    flex-direction: columns;
+    align-content: center;
+    justify-content: center;
+    
       border: 3px solid #000;
 }
 
