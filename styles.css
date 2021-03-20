@@ -10,7 +10,7 @@ body {
     opacity: 0.9;
 }
 
-#main-nav .nav-item {
+#main-nav .nav-link {
     color: #008ed6;
 }
 
@@ -36,6 +36,7 @@ body {
     flex-direction: columns;
     align-content: left;
     justify-content: left;
+    padding: 5px;
 }
         
 #home-section .overlay {
