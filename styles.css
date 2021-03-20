@@ -2,7 +2,7 @@ body {
     background: #FEF9E7;
     color: #000;
     font-family: 'Montserrat', sans-serif;
-    font-size: 14px;
+    font-size: 10px;
 }
 
 .navbar {
@@ -25,12 +25,9 @@ body {
     background-attachment: fixed;
     min-height: 700px;
     opacity: 0.9;
-    text-color: #F4D03F; .fab {
-    color: #e34c26;
-    background: #000;
-    padding: 5px;
-    border-radius: 5px;
+    text-color: #F4D03F; 
 }
+
      .fab {
     color: #e34c26;
     background: #000;
@@ -52,10 +49,7 @@ body {
     border-radius: 5px;
 }
     
-    
-    
-    
-.d-flex {
+    .d-flex {
     display: flex;
     flex-direction: columns;
     align-content: left;
@@ -102,11 +96,9 @@ body {
     border-radius: 5px;
 }
 
-#contact-section img{
+#contact-section img {
     border: 10px solid #FEF9E7;
 }
-
-
 
 #contact-section .fas {
     color: #008ed6;
