@@ -12,6 +12,8 @@ body {
 
 #main-nav .nav-link {
     color: #5AF;
+}
+
     hover: {
         background-color: #fff;
 }
