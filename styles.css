@@ -12,7 +12,7 @@ body {
 
 #main-nav .nav-link {
     color: #5AF;
-    a:hover {
+    hover: {
         background-color: #fff;
 }
 
