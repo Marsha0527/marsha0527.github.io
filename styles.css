@@ -2,7 +2,7 @@ body {
     background: #FEF9E7;
     color: #000;
     font-family: 'Montserrat', sans-serif;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 .navbar {
@@ -16,7 +16,7 @@ body {
     background-size: cover;
     background-attachment: fixed;
     min-height: 700px;
-    color: #FEF9E7;
+    color: #F4D03F;
     opacity: 0.9;
 }
 
