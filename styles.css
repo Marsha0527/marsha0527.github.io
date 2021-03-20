@@ -14,7 +14,7 @@ body {
     color: #5AF;
 }
 
-    hover: {
+    a:hover {
         background-color: #fff;
 }
 
