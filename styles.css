@@ -12,10 +12,12 @@ body {
 
 #home-section {
     background: url(/images/charlie-green-idsA7c7PRxw-unsplash.jpg);
+    background-color: #FAFAD2;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
     min-height: 700px;
+    
     opacity: 0.5;
 }
 
