@@ -20,7 +20,7 @@ body {
     opacity: 0.9;
 }
 
-#home-section .home-inner container .fab {
+ .home-inner container .fab {
     color: #e34c26;
     background: #fff;
     padding: 5px;
@@ -60,8 +60,6 @@ h5 {
       color: #000;
 }
   
-
-
 #contact-head-section .fab fa-css3 {
     color: #2965f1;
     background: #fff;
