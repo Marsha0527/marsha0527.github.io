@@ -31,6 +31,13 @@ body {
     border-radius: 5px;
 }
 
+.d-flex {
+    display: flex;
+    flex-direction: columns;
+    align-content: left;
+    justify-content: left;
+}
+        
 #home-section .overlay {
     position: absolute;
     top: 0;
