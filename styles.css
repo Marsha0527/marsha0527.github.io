@@ -10,6 +10,10 @@ body {
     opacity: 0.9;
 }
 
+.nav-link {
+    color: #008ed6;
+}
+
 #home-section {
     background: url(/images/charlie-green-idsA7c7PRxw-unsplash.jpg);
     background-repeat: no-repeat;
