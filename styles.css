@@ -98,7 +98,7 @@ body {
     font-size: 24px;
     text-align: center;
     cursor: pointer;
-    outline: none;
+    outline: #5AF;
     color: #5AF;
     border: none;
     border-radius: 15px;
