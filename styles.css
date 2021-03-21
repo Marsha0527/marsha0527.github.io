@@ -72,7 +72,7 @@ body {
 }
 
 #projects-section .card-columns {
-    font-size: 14px;
+    font-size: 12px;
     display: flex;
     flex-direction: columns;
     align-content: center;
