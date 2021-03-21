@@ -31,10 +31,14 @@ body {
 }
 
      .fab {
+         padding: 15px;
+         font-size: 20px;
+         width: 20px;
+         text-align: center;
+         text-decoration: none;
     color: #e34c26;
     background: #fff;
-    padding: 5px;
-    border-radius: 5px;
+    border-radius: 50%;
 }
 
 .fab fa-css3 {
