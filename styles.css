@@ -80,6 +80,10 @@ body {
     border: 3px solid #000;
 }
 
+    #project-section .container {
+         border: 3px solid #000;
+        
+        
 .card-text .btn {
     padding: 15px 25px;
     font-size: 24px;
