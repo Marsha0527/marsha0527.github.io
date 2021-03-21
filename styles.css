@@ -41,24 +41,9 @@ body {
          text-align: center;
          text-decoration: none;
          margin: 5px 2px;
-          border-radius: 50%;
     color: #e34c26;
     background: #fff;
    
-}
-
-.fab fa-css3 {
-    color: #2965F1;
-    background: #fff;
-    padding: 5px;
-    border-radius: 5px;
-    }
-    
-    .fab fa-js-square {
-    color: #2965F1;
-    background: #fff;
-    padding: 5px;
-    border-radius: 5px;
 }
     
     .d-flex {
