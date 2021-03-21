@@ -91,6 +91,18 @@ body {
     border: 3px solid #000;
 }
 
+.card-text .btn {
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #5AF;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
+
   #contact-head-section {
       background-color: #D6EAF8;
       color: #000;
