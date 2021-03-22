@@ -3,7 +3,7 @@ const modal = document.getElementById('simpleModal');
 // Get open modal button
 const modalBtn = document.getElementById('modalBtn');
 // Get close button
-const closeBtn = document.getElementById('closeBtn');
+const closeBtn = document.getElementsByClassName('closeBtn');
 
 // Listen for open click
 modalBtn.addEventListener('click', openModal);
