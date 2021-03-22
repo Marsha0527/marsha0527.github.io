@@ -83,7 +83,7 @@ body {
       
     #project-section {
         background-color:  #1c2e4a;
-    
+    }
     
     .card-text .btn {
     padding: 15px 25px;
@@ -110,7 +110,7 @@ body {
       color: #000;
 }
     
-#contact-head3-section 
+#contact-head-section {
     color: #f0db4f;
     background: #fff;
     padding: 5px;
