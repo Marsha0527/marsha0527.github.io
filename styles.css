@@ -81,7 +81,11 @@ body {
     border: 5px solid #000;
 }
       
-.card-text .btn {
+    #project-section .container {
+        background-color:  #1c2e4a;
+    
+    
+    .card-text .btn {
     padding: 15px 25px;
     font-size: 24px;
     text-align: center;
