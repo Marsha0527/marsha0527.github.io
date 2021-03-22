@@ -7,7 +7,7 @@ const closeBtn = document.getElementsByClassName('closeBtn');
 
 // Listen for open click
 modalBtn.addEventListener('click', openModal);
-// Listen for close click('click',closeModal);
+// Listen for close click('click',closeModal)[0];
 closeBtn.addEventListener
 
 // Function to open Modal
