@@ -5,10 +5,19 @@ const modalBtn = document.getElementById('modalBtn');
 // Get close button
 const closeBtn = document.getElementById('closeBtn');
 
-// Listen for click
+// Listen for open click
 modalBtn.addEventListener('click', openModal);
+// Listen for close click('click',closeModal);
+closeBtn.addEventListener
 
 // Function to open Modal
 function openModal(){
  modal.style.display = 'block';
 }
+
+// Function to close modal
+function closeModal() {
+ modal.style.display = 'none';
+}
+
+
