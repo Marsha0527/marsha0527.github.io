@@ -110,7 +110,7 @@ body {
       color: #000;
 }
     
-#contact-head-section 
+#contact-head3-section 
     color: #f0db4f;
     background: #fff;
     padding: 5px;
@@ -130,5 +130,6 @@ body {
 }
 
 #main-footer {
+    outline: #F4D03F;
     border-top: #F4D03F 7px solid;
 }
