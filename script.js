@@ -10,7 +10,7 @@ modalBtn.addEventListener('click', openModal);
 // Listen for close click('click',closeModal)[0];
 closeBtn.addEventListener
 // Listen for outside click
-window.addEventListener('click', clickOutside);
+window.addEventListener('click', outsideClick);
 
 
 // Function to open Modal
