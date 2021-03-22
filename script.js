@@ -10,5 +10,5 @@ modalBtn.addEventListener('click', openModal);
 
 // Function to open Modal
 function openModal(){
-  console.log(123);
+ modal.style.display = 'block';
 }
