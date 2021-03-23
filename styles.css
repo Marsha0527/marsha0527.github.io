@@ -118,6 +118,14 @@ body {
     border-radius: 5px;
 }
 
+    .social-links {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: #fdf3cf;
+        color: #000;
+    }
+    
     .modal-body {
        background-color: #FEF9E7;
     }
