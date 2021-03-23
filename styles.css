@@ -111,21 +111,21 @@ body {
       color: #000;
 }
     
-#contact-head-section {
+#contact-head-section .container {
     color: #f0db4f;
     background: #fff;
     padding: 5px;
     border-radius: 5px;
 }
 
-    .button { 
+    #modalBtn .button { 
         background-color: #008ed6;
         padding: 1em 2em;
         color: #fff;
         border: 0;
     }
     
-    .button:hover {
+    #modalBtn .button:hover {
         background: #333;
     }
     
