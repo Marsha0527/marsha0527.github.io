@@ -118,6 +118,10 @@ body {
     border-radius: 5px;
 }
 
+    .modal-body {
+       background-color: #FEF9E7;
+    }
+        
     #modalBtn .button { 
         background-color: #008ed6;
         padding: 1em 2em;
