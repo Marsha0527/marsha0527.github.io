@@ -134,7 +134,9 @@ body {
     }
     
     .modal {
-         display: none;
+         display: flex;
+        align-items: center;
+        justifiy-content: center;
         position: fixed;
         z-index: 1;
         right: 0;
