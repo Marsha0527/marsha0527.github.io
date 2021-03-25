@@ -8,6 +8,8 @@
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" 
   integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp"
     crossorigin="anonymous">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css"
        integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB"
        crossorigin="anonymous">
@@ -137,7 +139,7 @@
         <a href="https://linkedin.com/in/marshawoods/" target="_blank">
           <i class="fab fa-linkedin-in fa-3x" style="color: #008ed6" word-spacing: 1cm></i></a>
                        
-                 <!--  CONTACT MODAL  -->
+  <!--  CONTACT MODAL  -->
                 <button id="modalBtn" class="button" style= "background-color: #008ed6">Contact</button>
                       <div id="simpleModal" class="modal">
                        <div class="modal-content">
@@ -147,7 +149,7 @@
                                           <span>&times;</span> </button>
         </div>
         <div class="modal-body">
-          <form>
+          <form action="POST" data-netlify="true">
                                <div class="container">
             <div class="form-group">
               <label for="name">Name</label>
@@ -155,11 +157,11 @@
             </div>
             <div class="form-group">
               <label for="email" >Email</label>
-              <input type="email" class="form-control">
+              <input type="email" name="email" class="form-control">
             </div>
             <div class="form-group">
               <label for="message" >Message</label>
-              <textarea class="form-control"></textarea>
+              <textarea name="message" class="form-control"></textarea>
             </div>
          <button class="btn btn-primary btn-block">Submit</button>
         </div>
