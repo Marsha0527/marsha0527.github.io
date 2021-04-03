@@ -37,9 +37,13 @@ body {
 
      .fab {
          text-align: center;
-         text-decoration: none;
-         margin: 5px 2px;
-    color: #e34c26;
+         border-style: solid;
+         background-color: #000;
+         border-radius: 5px;
+         width: 60px;
+         padding-top: 5px;
+         padding-bottom: 5px;
+         margin: 10px 10px 10px 10px;
 }
     
     .d-flex {
