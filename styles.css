@@ -140,6 +140,7 @@ body {
         padding: 1em 2em;
         color: #fff;
         border: 0;
+        height: 20%;
     }
     
     #modalBtn .button:hover {
