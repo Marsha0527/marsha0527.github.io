@@ -206,6 +206,8 @@ body {
     margin: 15px 45px 15px 45px;
 }
 
+    .fas {
+        border-radius: #000 3px solid;
 #main-footer .container {
     outline: #F4D03F;
     border-top: #F4D03F 7px solid;
