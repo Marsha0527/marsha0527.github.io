@@ -18,7 +18,9 @@ body {
 }
 
 .nav-link {
-    word-spacing: 5px;
+    padding: 5px;
+    font-size: 18px;
+    word-spacing: 2px;
 }
     
 #main-nav .nav-link {
