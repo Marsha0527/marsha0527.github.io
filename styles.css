@@ -17,9 +17,12 @@ body {
     opacity: 0.9;
 }
 
+.nav-link {
+    letter-spacing: 5px;
+}
+    
 #main-nav .nav-link {
     color: #5AF;
-    word-spacing: 3px;
 }
 
     a:hover {
