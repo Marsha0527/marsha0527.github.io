@@ -137,7 +137,7 @@ textarea.input {
     top: 1rem;
     transform: translateY(0);
 }
-
+/*
 .btn-contact {
     padding: 0.6rem 1.3rem;
     background-color: #fff;
@@ -156,7 +156,7 @@ textarea.input {
     background-color: transparent;
     color: #fff;
 }
-    
+    */
     .input-container span {
         position: absolute;
         top: 0;
@@ -239,7 +239,7 @@ input-container focus label {
          width: 60px;
          padding-top: 5px;
          padding-bottom: 5px;
-         margin: 15px 15px 15px 15px;
+         margin: 25px 25px 25px 25px;
 }
     
     .d-flex {
