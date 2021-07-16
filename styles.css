@@ -137,7 +137,7 @@ textarea.input {
     top: 1rem;
     transform: translateY(0);
 }
-/*
+
 .btn-contact {
     padding: 0.6rem 1.3rem;
     background-color: #fff;
@@ -156,7 +156,7 @@ textarea.input {
     background-color: transparent;
     color: #fff;
 }
-    */
+    
     .input-container span {
         position: absolute;
         top: 0;
