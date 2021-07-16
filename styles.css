@@ -170,6 +170,24 @@ textarea.input {
         background-color: red;
 }
 
+input-container span:before,
+input-container span:after {
+    content: "";
+    positin: absolute;
+    width: 50%;
+    height: 5px;
+    background-color: blue;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+input-container span:before {
+    left: 50%;
+}
+
+input-container span:after {
+    right: 50%;
+}
 
 .navbar {
     margin-top: 0px;
