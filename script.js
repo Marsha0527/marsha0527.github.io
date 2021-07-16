@@ -14,7 +14,7 @@ window.addEventListener('click', outsideClick);
 
 
 // Function to open Modal
-function openModal(){
+function openModal() {
  modal.style.display = 'block';
 }
 
@@ -24,8 +24,8 @@ function closeModal() {
 }
 
 // Function to close modal if outside click
-function outsideClick(e){
- if(e.target == modal){
+function outsideClick(e) {
+ if(e.target == modal) {
   modal.style.display = 'none';
  }
 }
