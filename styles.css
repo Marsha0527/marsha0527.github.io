@@ -42,13 +42,7 @@ font-family: "Poppins", sans-serif;
     grid-template-columns: repeat(2, 1fr);
 }
 
-.contact-info {
-    background-color: green;
-}
-        
-.contact-form {
-    background-color: red;
-}
+
 
 .navbar {
     margin-top: 0px;
