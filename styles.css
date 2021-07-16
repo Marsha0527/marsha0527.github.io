@@ -129,6 +129,8 @@ textarea.input {
     color: #FAFAFA;
     font-size: 0.9rem;
     font-weight: 400;
+    pointer-events: none;
+    z-index: 1000;
 }
 
 
