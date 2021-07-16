@@ -25,10 +25,30 @@ font-family: "Poppins", sans-serif;
     width: 100;
     min-height: 100vh;
     padding: 2rem;
-    background-color: FEF9EF;
+    background-color: #F4D03F;
     overflow: hidden;
 }
 
+.form {
+    width: 100;
+    max-width: 820;
+    height: 500px;
+    background-color: #FEF9EF;
+    border-radius: 10px;
+    box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    overflow: hidden;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.contact-info {
+    background-color: green;
+}
+        
+.contact-form {
+    background-color: red;
+}
 
 .navbar {
     margin-top: 0px;
