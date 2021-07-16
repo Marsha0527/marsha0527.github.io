@@ -43,7 +43,7 @@ font-family: "Poppins", sans-serif;
 }
 
 .contact-form {
-    background-color: #CCE8F6;
+    background-color: #66BBE6;
     position: relative;
 }
 
@@ -72,7 +72,7 @@ font-family: "Poppins", sans-serif;
     position: absolute;
     width: 26px;
     height: 26px;
-    background-color: #CCE8F6;
+    background-color: #66BBE6;
     transform: rotate(45deg);
     top: 50px;
     left: -13px;
