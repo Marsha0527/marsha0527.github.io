@@ -120,6 +120,18 @@ textarea.input {
     overflow-y: auto;
 }
 
+.input-container label {
+    position: absolute;
+    top: 50%;
+    left: 15px;
+    transform: translateY(-50%);
+    padding: 0 0.4rem;
+    color: #FAFAFA;
+    font-size: 0.9rem;
+    font-weight: 400;
+}
+
+
 
 .navbar {
     margin-top: 0px;
