@@ -157,7 +157,18 @@ textarea.input {
     color: #fff;
 }
     
-    
+    .input-container span {
+        position: absolute;
+        top: 0;
+        left: 25px;
+        transform: translateY(-50%);
+        font-size: 0.8;
+        padding: 0 0.4rem;
+        color: transparent;
+        pointer-events: none;
+        z-index: 500;
+        background-color: red;
+}
 
 
 .navbar {
