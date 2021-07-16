@@ -247,7 +247,7 @@ input-container focus label {
     flex-direction: columns;
     align-content: left;
     justify-content: left;
-    padding: 5px;
+    padding: 15px;
 }
         
 #home-section .overlay {
