@@ -191,6 +191,14 @@ input-container span:after {
     right: 50%;
 }
 
+input-container focus label {
+    top: 0;
+    transform: translateY(-50%);
+    left: 25px;
+    font-size: 0.8rem;
+}
+    
+
 .navbar {
     margin-top: 0px;
     margin-bottom: 0px;
