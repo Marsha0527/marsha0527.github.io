@@ -72,7 +72,10 @@ font-family: "Poppins", sans-serif;
     position: absolute;
     width: 26px;
     height: 26px;
-    background-color: red;
+    background-color: #99D1EE;
+    transform: rotate(45deg);
+    top: 50px;
+    left: -13px;
 }
     
     
@@ -138,7 +141,6 @@ font-family: "Poppins", sans-serif;
 
 #home-section .home-inner {
     color: #F4D03F;
-    
     padding-top: 100px;
 }
 
@@ -211,61 +213,7 @@ font-family: "Poppins", sans-serif;
         align-items: center;
         justify-content: center;
         background-color: #fdf3cf;
-        
-    }
-    
-    .modal-body {
-       background-color: #FEF9E7;
-    }
-        
-    #modalBtn .button { 
-        background-color: #008ed6;
-        padding: 1em 2em;
-        color: #fff;
-        border: 0;
-        height: 50px;
-    }
-    
-    #modalBtn .button:hover {
-        background: #333;
-    }
-    
-    .modal {
-         display: flex;
-        align-items: center;
-        justifiy-content: center;
-        position: fixed;
-        z-index: 1;
-        right: 5;
-        left: 5;
-        top: 3;
-        height: 100%;
-        width: 100%;
-        overflow: auto;
-        background-color: rgba(0, 0, 0, 0.2);
-    }
-        
-        .modal-content {
-        background-color: #008ed6;
-        margin: 20% auto;
-        padding: 5px;
-        width: 70%;
-        box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.3), 0 7px 20px 0 rgba(0, 0, 0, 0.17);
-        animation-name:  modalopen;
-            animation-duration: 1s;
-        }
-        
-        .closeBtn {
-        color: #ccc;
-        float: right;
-        font-size: 30px;
-    }
-        
-        .closeBtn:hover,.closeBtn:focus {
-        color: #000;
-        text-decoration: none;
-        cursor: pointer;
-    }
+         }
     
     @keyframes modalopen {
         from{opacity: 0}
