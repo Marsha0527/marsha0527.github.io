@@ -170,8 +170,8 @@ textarea.input {
         background-color: red;
 }
 
-input-container span:before,
-input-container span:after {
+.input-container span:before,
+.input-container span:after {
     content: "";
     positin: absolute;
     width: 50%;
