@@ -111,7 +111,7 @@ font-family: "Poppins", sans-serif;
     transition: 0.3s;
 }
 
-textarea.input {
+.textarea.input {
     padding: 0.8rem 1.2rem;
     min-height: 150px;
     border-radius: 22px;
@@ -183,15 +183,15 @@ textarea.input {
     transform: translateY(-50%);
 }
 
-input-container span:before {
+.input-container span:before {
     left: 50%;
 }
 
-input-container span:after {
+.input-container span:after {
     right: 50%;
 }
 
-input-container focus label {
+.input-container focus label {
     top: 0;
     transform: translateY(-50%);
     left: 25px;
