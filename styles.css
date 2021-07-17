@@ -19,26 +19,6 @@ input,
 textarea {
 font-family: "Poppins", sans-serif;
 }
-    
-  form {
-      padding: 2.3rem 2.2rem;
-      z-index: 10;
-      overflow: hidden;
-      position: relative;
-}
-
-.title {
-    color: #fff;
-    font-weight: 500;
-    font-size: 1.5rem;
-    line-height: 1;
-    margin-bottom: 0.7rem;
-}
-
-.input-container {
-    position: relative;
-    margin: 1rem 0;
-}
 
 .input {
     width: 100;
@@ -368,6 +348,32 @@ input-container.focus span:after {
         top: 50px;
         left: -13px;
     }
+    
+    form {
+        padding: 35px 32px;
+        z-index: 10px;
+        overflow: hidden;
+        position: relative;
+    }
+    
+    .title {
+        color: #fff;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 1;
+        margin-bottom: 10px;
+    }
+    
+    .input-container {
+        position: relative;
+        margin: 16px;
+    }
+    
+    
+        
+    
+    
+    
     
 #main-footer .container {
     outline: #F4D03F;
