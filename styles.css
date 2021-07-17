@@ -19,42 +19,6 @@ input,
 textarea {
 font-family: "Poppins", sans-serif;
 }
-
-.input-container span:before,
-.input-container span:after {
-    content: "";
-    positin: absolute;
-    width: 10%;
-    opacity: 0;
-    transition: 0.3s;
-    height: 5px;
-    background-color: #556b2f;
-    top: 50%;
-    transform: translateY(-50%);
-}
-
-.input-container span:before {
-    left: 50%;
-}
-
-.input-container span:after {
-    right: 50%;
-}
-
-.input-container.focus label {
-    top: 0;
-    transform: translateY(-50%);
-    left: 25px;
-    font-size: 0.8rem;
-}
-    
-input-container.focus span:before,
-input-container.focus span:after {
-    width: 50%;
-    opacity: 1;
-    
-    
-    
     
 .navbar {
     margin-top: 0px;
@@ -86,8 +50,8 @@ input-container.focus span:after {
     min-height: 700px;
     opacity: 0.9;
     text-color: #F4D03F; 
-}
-
+    }
+    
      .fab {
          text-align: center;
          border-style: solid;
@@ -369,7 +333,39 @@ input-container.focus span:after {
         background-color: red;
     }
         
+   .input-container span:before,
+   .input-container span:after {
+       content: "";
+       position: absolute;
+       width: 10%;
+       opacity: 0;
+       transition: 0.3s;
+       height: 5px;
+       background-color: #556B2F;
+       top: 50%;
+       transform: translateY(-50%);
+    }
     
+    .input-container span:before {
+        left: 50%;
+    }
+    
+    .input-container span:after {
+        right: 50%;
+    }
+    
+    .input-container.focus label {
+        top: 0;
+        transform: translateY(-50%);
+        left: 25px;
+        font-size: 14px;
+    }
+    
+    .input-container.focus span:before,
+    .input-container.focus span:after {
+        width: 50%;
+        opacity: 1;
+    }
     
 #main-footer .container {
     outline: #F4D03F;
