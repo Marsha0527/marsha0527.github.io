@@ -19,69 +19,6 @@ input,
 textarea {
 font-family: "Poppins", sans-serif;
 }
-
-.container-box {
-    position: relative;
-    width: 100;
-    min-height: 75vh;
-    padding: 16px;
-    background-color: #F4D03F;
-    overflow: hidden;
-}
-
-.form {
-    width: 100;
-    max-width: 820;
-    background-color: #FEF9EF;
-    border-radius: 10px;
-    box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.1);
-    z-index: 1000;
-    overflow: hidden;
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-}
-
-.contact-form {
-    background-color: #66BBE6;
-    position: relative;
-}
-
-.form-image {
-    width: 90%;
-    height: 30%;
-    opacity: 0.9;
-} 
-
-.circle {
-    border-radius: 50%;
-    background: linear-gradient (135deg, transparent 20%, #99D1EE);
-    position: absolute;
-}
-
-.circle-one {
-    width: 130px;
-    height: 130px;
-    top: 130px;
-    right: -40px;
-}
-
-.circle-two {
-    width: 80px;
-    height: 80px;
-    top: 10px;
-    right: 30px;
-}
-    
-.contact-form:before {
-    content: "";
-    position: absolute;
-    width: 26px;
-    height: 26px;
-    background-color: #66BBE6;
-    transform: rotate(45deg);
-    top: 50px;
-    left: -13px;
-}
     
   form {
       padding: 2.3rem 2.2rem;
@@ -373,6 +310,63 @@ input-container.focus span:after {
     .fas {
         background-color: #fff;
         border-radius: #000 3px solid;
+    }
+    
+    .container-box {
+        position: relative;
+        width: 100;
+        min-height: 100vh;
+        padding: 16px;
+        background-color: #F4D03F;
+        overflow: hidden;
+    }
+    
+    .form {
+        width: 100;
+        max-width: 820;
+        background-color: #FEFE9F;
+        border-radius: 10px;
+        box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.1);
+        z-index: 1000;
+        overflow: hidden;
+        display: grid;
+        grid-template-columns: repeat(2 1fr);
+            }
+            
+    .container-form {
+        background-color: #66BBE6;
+        position: relative;
+    }
+    
+    .circle {
+        border-radius: 50%;
+        background: linear-gradient (135deg, transparent 20%, #99D1EE);
+        position: absolute;
+    }
+        
+    .circle-one {
+        width: 130px;
+        height: 130px;
+        top: 130px;
+        right: -40(deg);
+    }
+    
+    .circle-two {
+        width: 80px;
+        height: 80px;
+        top: 10px;
+        right: 30px;
+    }
+    
+    .contact-form:before {
+        content: "";
+        position: absolute;
+        width: 26px;
+        height: 26px;
+        background-color: #66BBE6;
+        transform: rotate(45deg);
+        top: 50px;
+        left: -13px;
     }
     
 #main-footer .container {
