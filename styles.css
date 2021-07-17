@@ -191,7 +191,7 @@ font-family: "Poppins", sans-serif;
     right: 50%;
 }
 
-.input-container focus label {
+.input-container.focus label {
     top: 0;
     transform: translateY(-50%);
     left: 25px;
