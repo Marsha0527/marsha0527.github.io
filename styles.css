@@ -167,7 +167,6 @@ textarea.input {
         color: transparent;
         pointer-events: none;
         z-index: 500;
-        background-color: #66BBE6;
 }
 
 input-container span:before,
