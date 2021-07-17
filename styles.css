@@ -174,7 +174,7 @@ font-family: "Poppins", sans-serif;
 .input-container span:after {
     content: "";
     positin: absolute;
-    width: 50%;
+    width: 10%;
     opacity: 0;
     transition: 0.3s;
     height: 5px;
