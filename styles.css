@@ -31,8 +31,7 @@ font-family: "Poppins", sans-serif;
     padding: 25px;
     font-size: 18px;
     letter-spacing: 2px;
-    
-}
+    }
     
 #main-nav .nav-link {
     color: #5AF;
@@ -155,12 +154,12 @@ font-family: "Poppins", sans-serif;
         justify-content: center;
         background-color: #fdf3cf;
          }
-    
+    /*
     @keyframes modalopen {
         from{opacity: 0}
         to {opacity: 1}
     }
-        
+        */
         
 #contact-section img {
     border: 10px solid #FEF9E7;
@@ -195,7 +194,7 @@ font-family: "Poppins", sans-serif;
     .form {
         width: 100;
         max-width: 820;
-        background-color: #FEFE9F;
+        background-color: #66BBE6;
         border-radius: 10px;
         box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.1);
         z-index: 1000;
