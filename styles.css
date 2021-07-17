@@ -174,11 +174,11 @@ input-container span:before,
 input-container span:after {
     content: "";
     positin: absolute;
-    width: 10%;
+    width: 50%;
     opacity: 0;
     transition: 0.3s;
     height: 5px;
-    background-color: #66BBE6;
+    background-color: #556b2f;
     top: 50%;
     transform: translateY(-50%);
 }
