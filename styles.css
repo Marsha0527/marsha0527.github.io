@@ -20,42 +20,6 @@ textarea {
 font-family: "Poppins", sans-serif;
 }
 
-.input {
-    width: 100;
-    outline: none;
-    border: 2px solid #FAFAFA;
-    background: none;
-    padding: 0.6rem 1.2rem;
-    color: #fff;
-    font-weight: 500;
-    font-size: 0.95rem;
-    letter-spacing: 0.5px;
-    border-radius: 25px;
-    transition: 0.3s;
-}
-
-.textarea.input {
-    padding: 0.8rem 1.2rem;
-    min-height: 150px;
-    border-radius: 22px;
-    resize: none;
-    overflow-y: auto;
-}
-
-.input-container label {
-    position: absolute;
-    top: 50%;
-    left: 15px;
-    transform: translateY(-50%);
-    padding: 0 0.4rem;
-    color: #FAFAFA;
-    font-size: 0.9rem;
-    font-weight: 400;
-    pointer-events: none;
-    z-index: 1000;
-    transition: 0.5s;
-}
-
 .input-container.textarea label {
     top: 1rem;
     transform: translateY(0);
@@ -369,7 +333,43 @@ input-container.focus span:after {
         margin: 16px;
     }
     
+    .input {
+        width: 100;
+        outline: none;
+        border: 2px solid #FAFAFA;
+        background: none;
+        padding: 10px 18px;
+        color: #fff;
+        font-weight: 500;
+        font-size: 15px;
+        letter-spacing: 0.5px;
+        border-radius: 25px;
+        transition: 0.3s;
+    }
     
+    .textarea.input {
+        padding: 14px 18px;
+        min-height: 150px;
+        border-radius: 22px;
+        resize: none;
+        overflow-y: auto;
+    }
+    
+   .input-container label {
+       position: absolute;
+       top: 50%;
+       left: 15px;
+       transform: translateY(-50%);
+       padding: 0 7px;
+       color: #fff;
+       font-size: 15px;
+       font-weight: 400;
+       pointer-events: none;
+       z-index: 1000;
+       transition: 0.5s;
+    }
+    
+       
         
     
     
