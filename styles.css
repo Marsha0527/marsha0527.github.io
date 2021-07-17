@@ -24,7 +24,7 @@ font-family: "Poppins", sans-serif;
     position: relative;
     width: 100;
     min-height: 100vh;
-    padding: 2rem;
+    padding: 1rem;
     background-color: #F4D03F;
     overflow: hidden;
 }
