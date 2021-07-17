@@ -59,7 +59,7 @@ font-family: "Poppins", sans-serif;
          width: 60px;
          padding-top: 5px;
          padding-bottom: 5px;
-         margin: 20px 20px 20px 20px;
+         margin: 25px 25px 25px 25px;
 }
     
     .d-flex {
@@ -67,7 +67,7 @@ font-family: "Poppins", sans-serif;
     flex-direction: columns;
     align-content: left;
     justify-content: left;
-    padding: 10px;
+    padding: 5px;
 }
         
 #home-section .overlay {
