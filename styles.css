@@ -20,43 +20,6 @@ textarea {
 font-family: "Poppins", sans-serif;
 }
 
-.input-container.textarea label {
-    top: 1rem;
-    transform: translateY(0);
-}
-
-.btn-contact {
-    padding: 0.6rem 1.3rem;
-    background-color: #fff;
-    border: 2px solid #FAFAFA;
-    font-size: 0.95rem;
-    color: #66BBE6;
-    line-height: 1;
-    border-radius: 25px;
-    outline: none;
-    cursor: pointer;
-    transition: 0.3s;
-    margin: 0;
-}
-
-.btn-contact:hover {
-    background-color: transparent;
-    color: #fff;
-}
-    
-    .input-container span {
-        position: absolute;
-        top: 0;
-        left: 25px;
-        transform: translateY(-50%);
-        font-size: 0.8;
-        padding: 0 0.4rem;
-        color: transparent;
-        pointer-events: none;
-        z-index: 500;
-        background-color: red;
-}
-
 .input-container span:before,
 .input-container span:after {
     content: "";
@@ -369,10 +332,43 @@ input-container.focus span:after {
        transition: 0.5s;
     }
     
-       
+ .input-container.textarea label {
+     top: 16px;
+     transform: translateY(0);
+    }
         
+    .btn-contact {
+        padding: 10px 20px;
+        background-color: #fff;
+        border-radius: 2px solid #FAFAFA;
+        font-size: 15px;
+        color: #66BBE6;
+        line-height: 1;
+        border-radius: 25px;
+        outline: none;
+        cursor: pointer;
+        transition: 0.3s;
+        margin: 0;
+    }
     
+    .btn-contact:hover {
+        background-color: transparent;
+        color: #fff;
+    }
     
+    .input-container span {
+        position: absolute;
+        top: 0;
+        left: 25px;
+        transform: translateY(-50%);
+        font-size: 0.8;
+        padding: 0 7px;
+        color: transparent;
+        pointer-events: none;
+        z-index: 500;
+        background-color: red;
+    }
+        
     
     
 #main-footer .container {
