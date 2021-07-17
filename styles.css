@@ -46,6 +46,11 @@ font-family: "Poppins", sans-serif;
     position: relative;
 }
 
+.form-image {
+    width: 50%;
+    height: 50%;
+} 
+
 .circle {
     border-radius: 50%;
     background: linear-gradient (135deg, transparent 20%, #99D1EE);
