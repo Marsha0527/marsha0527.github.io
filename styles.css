@@ -330,7 +330,7 @@ font-family: "Poppins", sans-serif;
         color: transparent;
         pointer-events: none;
         z-index: 500;
-        background-color: red;
+        background-color: #fff;
     }
         
    .input-container span:before,
