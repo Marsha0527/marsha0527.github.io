@@ -98,6 +98,7 @@ font-family: "Poppins", sans-serif;
 #projects-head-section {
     background-color: #FEF9E7;
     color: #000;
+    text-shadow: 1px 1px 1px #008ED6;
 }
 
 #projects-section .card-columns {
