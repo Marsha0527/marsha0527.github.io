@@ -365,10 +365,6 @@ font-family: "Poppins", sans-serif;
     .input-container.focus span:after {
         width: 50%;
         opacity: 1;
-    }
-    
-.icon {
-    width: 28px;
 }
 
 .contact-info {
@@ -392,6 +388,12 @@ font-family: "Poppins", sans-serif;
     align-items: center;
     font-size: 15px;
     }
+
+.icon { 
+    width: 28px;
+    margin-right: 12px;
+    
+}
     
     
 #main-footer .container {
