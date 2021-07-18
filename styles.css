@@ -440,7 +440,7 @@ font-family: "Poppins", sans-serif;
     width: 500px;
     height: 500px;
     border-radius: 50%;
-    background: linear-gradient(to bottom, #7FC6EA, #006395);
+    background: linear-gradient(to bottom, #B2DDF2, #006395);
     bottom: 50%;
     right: 50%;
     transform: translate(-40%, 38%);
@@ -459,5 +459,6 @@ font-family: "Poppins", sans-serif;
     background-color: #FAFAFA;
     border-radius: 50%;
     top: calc(50%, - 180px);
+    left: calc(50%, - 180px);
 }
     
