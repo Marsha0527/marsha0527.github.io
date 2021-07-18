@@ -498,7 +498,44 @@ font-family: "Poppins", sans-serif;
     }
     }
 
-    
+@media (max-width: 480px) {
+    .container {
+        padding: 24px;
+}
+    .container-info:before {
+        display: none;
+        }
+    .square, 
+    big-circle { 
+        display: none;
+    }
+     
+    form,
+    .contact-info {
+        padding: 28px 26px;
+    }
+    .text, .information, .social-media p {
+        font-size: 12px;
+    }
+    .title {
+        font-size: 20px;
+    }
+    .social-icons a {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+}
+    .icon {
+        width: 24px;
+    }
+    .input {
+        padding: 7px 18px;
+}
+    .btn {
+        padding: 7px 10px;
+    }
+}
+
 #main-footer .container {
     outline: #F4D03F;
     border-top: #F4D03F 7px solid;
