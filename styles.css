@@ -178,6 +178,7 @@ font-family: "Poppins", sans-serif;
 }
 
     .fas {
+        padding: 10px;
         background-color: #fff;
         border-radius: #000 3px solid;
     }
