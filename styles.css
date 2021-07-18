@@ -28,10 +28,10 @@ font-family: "Poppins", sans-serif;
 }
 
 .nav-link {
-    padding: 20px;
+    padding: 15px;
     font-size: 24px;
     letter-spacing: 2px;
-    word-spacing: 10px;
+    word-spacing: 20px;
     }
     
 #main-nav .nav-link {
