@@ -367,6 +367,29 @@ font-family: "Poppins", sans-serif;
         opacity: 1;
     }
     
+.icon {
+    width: 28px;
+}
+
+.contact-info {
+    padding: 36px 34px;
+    position: relative;
+}
+
+.contact-info .title {
+    color: #66BBE6;
+}
+
+.text {
+    color: #333;
+    margin: 24px 0 32px 0;
+}
+
+.information {
+    display: flex;
+}
+    
+    
 #main-footer .container {
     outline: #F4D03F;
     border-top: #F4D03F 7px solid;
