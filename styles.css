@@ -223,11 +223,11 @@ font-family: "Poppins", sans-serif;
         border-radius: #000 5px solid;
     }
     
-    .container-box{
+    .container {
         position: relative;
-        width: 100;
+        width: 100%;
         min-height: 100vh;
-        padding: 1rem;
+        padding: 32px;
         background-color: #000;
         border: 2px solid #000;
         overflow: hidden;
