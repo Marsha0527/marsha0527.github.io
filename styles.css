@@ -228,7 +228,7 @@ font-family: "Poppins", sans-serif;
         width: 100;
         min-height: 100vh;
         padding: 16px;
-        background-color: #F4D03F;
+        background-color: #000;
         border: 2px solid #000;
         overflow: hidden;
     }
