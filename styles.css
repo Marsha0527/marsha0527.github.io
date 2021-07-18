@@ -153,7 +153,6 @@ font-family: "Poppins", sans-serif;
         align-items: center;
         justify-content: center;
         background-color: #fdf3cf;
-        border: 5px solid #008ED6;
          }
     /*
     @keyframes modalopen {
@@ -163,7 +162,7 @@ font-family: "Poppins", sans-serif;
         */
         
 #contact-section img {
-    border: 10px solid #FEF9E7;
+    border: 10px solid #008ED6;
 }
 
 #contact-section .fas {
