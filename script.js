@@ -7,13 +7,11 @@ function focusFunc() {
 }
  
  function blurFunc() {
-   let parent = this.parentNode
-   if (this.value == "") {
+   let parent = this.parentNode;
        parent.classList.remove("focus");
  }
- }
 
-inputs.forEach(input => {
+inputs.forEach((input => {
 input.addEventListener("focus", focusFunc);
  input.addEventListener("blur", blurFunc);
 });
