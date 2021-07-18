@@ -97,8 +97,9 @@ font-family: "Poppins", sans-serif;
 
 #projects-head-section h4{
     background-color: #FEF9E7;
+    font-size: 48px;
     color: #000;
-    text-shadow: 1px 1px 1px #008ED6;
+    text-shadow: 2px 2px 2px #008ED6;
 }
 
 #projects-head-section {
