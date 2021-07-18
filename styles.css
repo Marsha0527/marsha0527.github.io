@@ -392,9 +392,49 @@ font-family: "Poppins", sans-serif;
 .icon { 
     width: 28px;
     margin-right: 12px;
+   }
     
+.social-media {
+    padding: 32px 0 0 0;
 }
-    
+
+.social-media p {
+    color: #333;
+}
+
+.social-icons {
+    display: flex;
+    margin-top: 8px;
+}
+
+.social-icons a {
+    width: 35px;
+    height: 35px;
+    border-radius: 5px;
+    background: linear-gradient(45deg, #66BBE6);
+    color: #fff;
+    text-align: center;
+    line-height: 35px;
+    margin-right: 8px;
+    transition: 0,3s;
+}
+
+.social-icons a:hover {
+    transform-scale: (1.05);
+}
+
+.contact-info:before {
+    content: "";
+    position: absolute;
+    width: 110px;
+    height: 100px;
+    border: 22px solid #66BBE6;
+    border-radius: 50%;
+    bottom: -77px;
+    right: 50px;
+    opacity: 0.3;
+}
+}
     
 #main-footer .container {
     outline: #F4D03F;
