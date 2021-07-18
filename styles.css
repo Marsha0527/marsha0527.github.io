@@ -481,7 +481,7 @@ font-family: "Poppins", sans-serif;
     width: 500px;
     height: 500px;
     border-radius: 50%;
-    border: 1px solid #000;
+    border: 2px solid #000;
     background: linear-gradient(to bottom, #B2DDF2, #006395);
     bottom: 50%;
     right: 50%;
