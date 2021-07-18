@@ -387,7 +387,11 @@ font-family: "Poppins", sans-serif;
 
 .information {
     display: flex;
-}
+    color: #555;
+    margin: 10px 0;
+    align-items: center;
+    font-size: 15px;
+    }
     
     
 #main-footer .container {
