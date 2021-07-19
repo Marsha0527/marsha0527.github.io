@@ -379,6 +379,7 @@ font-family: "Poppins", sans-serif;
         color: transparent;
         pointer-events: none;
         z-index: 500;
+        background-color: red;
     }
         
    .input-container span:before,
