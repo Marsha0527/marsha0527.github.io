@@ -307,16 +307,20 @@ font-family: "Poppins", sans-serif;
     
     .input-container {
         position: relative;
-        margin: 16px;
+        margin: 16px 0  ;
     }
     
+label {
+    display: none;
+} 
+
     .input {
-        width: 100;
+        width: 100%;
         outline: none;
         border: 2px solid #FAFAFA;
         background: none;
         padding: 10px 18px;
-        color: #fff;
+        color: #000;
         font-weight: 500;
         font-size: 15px;
         letter-spacing: 0.5px;
