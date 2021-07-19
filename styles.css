@@ -379,7 +379,6 @@ font-family: "Poppins", sans-serif;
         color: transparent;
         pointer-events: none;
         z-index: 500;
-        background-color: red;
     }
         
    .input-container span:before,
@@ -390,7 +389,7 @@ font-family: "Poppins", sans-serif;
   /*     opacity: 0;
        transition: 0.3s; */
        height: 5px;
-       background-color: green;
+       background-color: #006395;
        top: 50%;
        transform: translateY(-50%);
     }
