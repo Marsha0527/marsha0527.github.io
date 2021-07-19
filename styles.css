@@ -251,16 +251,8 @@ font-family: "Poppins", sans-serif;
         display: grid;
         grid-template-columns: repeat(2 1fr);
             }
-            
-.contact-info {
-    background-color: #66BBE6;
-}
-
-.contact-form {
-    background-color: red;
-}
-
-    .container-form {
+       
+    .contact-form {
         background-color: #B2DDF2;
         position: relative;
     }
