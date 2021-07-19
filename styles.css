@@ -231,7 +231,6 @@ font-family: "Poppins", sans-serif;
         min-height: 100vh;
         padding: 16px;
         margin-top: 2px;
-        padding-bottom: 6px;
         background-color: #000;
         border-radius: 5px;
         overflow: hidden;
@@ -269,8 +268,8 @@ font-family: "Poppins", sans-serif;
     .circle.one {
         width: 130px;
         height: 130px;
-        top: 130px;
-        right: -40px;
+        top: 100px;
+        right: -30px;
     }
     
     .circle.two {
