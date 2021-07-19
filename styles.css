@@ -242,7 +242,6 @@ font-family: "Poppins", sans-serif;
     .form {
         width: 100%;
         max-width: 820;
-        height: 500px;
         background-color: #66BBE6;
         border-radius: 10px;
         box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.1);
@@ -354,7 +353,7 @@ font-family: "Poppins", sans-serif;
     .btn-contact {
         padding: 10px 20px;
         background-color: #fff;
-        border-radius: 2px solid #FAFAFA;
+        border: 2px solid #FAFAFA;
         font-size: 15px;
         color: #000;
         line-height: 1;
