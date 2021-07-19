@@ -385,9 +385,9 @@ font-family: "Poppins", sans-serif;
    .input-container span:after {
        content: "";
        position: absolute;
-       width: 50%;
-  /*     opacity: 0;
-       transition: 0.3s; */
+       width: 10%;
+       opacity: 0;
+       transition: 0.3s; 
        height: 5px;
        background-color: #B2DDF2;
        top: 50%;
