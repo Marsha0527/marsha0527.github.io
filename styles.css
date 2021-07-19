@@ -379,18 +379,17 @@ font-family: "Poppins", sans-serif;
         color: transparent;
         pointer-events: none;
         z-index: 500;
-        background-color: red;
     }
         
    .input-container span:before,
    .input-container span:after {
        content: "";
        position: absolute;
-       width: 10%;
+       width: 50%;
        opacity: 0;
        transition: 0.3s;
        height: 5px;
-       background-color: #556B2F;
+       background-color: green;
        top: 50%;
        transform: translateY(-50%);
     }
