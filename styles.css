@@ -284,10 +284,10 @@ font-family: "Poppins", sans-serif;
         position: absolute;
         width: 26px;
         height: 26px;
-        background-color: #66BBE6;
-        transform: rotate(45deg);
+        background-color: red;
+     /*   transform: rotate(45deg);
         top: 50px;
-        left: -13px;
+        left: -13px;*/
     }
     
     form {
