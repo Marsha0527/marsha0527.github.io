@@ -79,11 +79,11 @@ font-family: "Poppins", sans-serif;
     min-height: 700px;
     background: rgba(0,0,0,0.7);
 }
-
+/*
 #home-section .home-inner {
     color: #F4D03F;
     padding-top: 100px;
-}
+}    */
 
 #home-section .home-inner h1{
     color: #F4D03F;
