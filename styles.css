@@ -229,7 +229,7 @@ font-family: "Poppins", sans-serif;
         position: relative;
         width: 100%;
         min-height: 100vh;
-        padding: 16px;
+        padding: 90px;
         margin-top: 7px;
         background-color: #000;
         border-radius: 5px;
@@ -290,7 +290,7 @@ font-family: "Poppins", sans-serif;
     }
     
     form {
-        padding: 90px 90px;
+        padding: 95px 95px;
         z-index: 10px;
         overflow: hidden;
         position: relative;
