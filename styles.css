@@ -317,9 +317,9 @@ font-family: "Poppins", sans-serif;
         padding: 20px 18px;
         color: #000;
         font-weight: 500;
-        font-size: 25px;
+        font-size: 20px;
         letter-spacing: 1px;
-        border-radius: 25px;
+        border-radius: 20px;
         transition: 0.3s;
     }
     
@@ -354,7 +354,7 @@ font-family: "Poppins", sans-serif;
         padding: 10px 20px;
         background-color: #FEF9E7;
         border: 2px solid #000;
-        font-size: 25px;
+        font-size: 20px;
         text-weight: bold;
         color: #000;
         letter-spacing: 1px;
