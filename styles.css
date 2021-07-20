@@ -85,11 +85,21 @@ font-family: "Poppins", sans-serif;
     padding-top: 100px;
 }    
 
-#home-section .home-inner h1{
+#home-section .home-inner h1 {
+    color: #F4D03F;
+    font-size: 52px;
+    padding-top: 60px;
+    word-spacing: 3px;
+    letter-spacing: 1px;
+}
+    
+#home-section .home-inner h1 .name {
     color: #F4D03F;
     font-size: 52;
     text-shadow: 1px 1px 1px #F0F0F0;
-    padding-top: 100px;
+    padding-top: 60px;
+    word-spacing: 3px;
+    letter-spacing: 1px;
 }
 
 /*
