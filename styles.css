@@ -185,7 +185,7 @@ font-family: "Poppins", sans-serif;
     padding: 5px;
     border-radius: 5px;
 }
-
+/*
     .social-links {
         display: flex;
         flex-direction: columns;
@@ -193,7 +193,7 @@ font-family: "Poppins", sans-serif;
         justify-content: center;
         background-color: #fdf3cf;
          }
-    /*
+    
     @keyframes modalopen {
         from{opacity: 0}
         to {opacity: 1}
@@ -306,7 +306,7 @@ font-family: "Poppins", sans-serif;
     
     .input-container {
         position: relative;
-        margin: 16px 0  ;
+        margin: 8px 0  ;
     }
 
     .input {
