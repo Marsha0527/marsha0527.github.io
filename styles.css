@@ -85,7 +85,13 @@ font-family: "Poppins", sans-serif;
     padding-top: 100px;
 }
 
-#home-section .home-inner h1 {
+#home-section .home-inner h1{
+    color: #F4D03F;
+    font-size: 52;
+    padding-top: 100px;
+}
+
+#home-section .home-inner h1 .name-shadow{
     color: #F4D03F;
     text-shadow: 1px 1px 1px #F0F0F0;
     font-size: 52px;
