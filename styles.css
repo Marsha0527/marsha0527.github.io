@@ -353,9 +353,9 @@ font-family: "Poppins", sans-serif;
     .btn-contact {
         padding: 10px 20px;
         background-color: #000;
-        border: 2px solid #FAFAFA;
+        border: 2px solid #000;
         font-size: 15px;
-        color: #fff;
+        color: #;
         letter-spacing: 1px;
         line-height: 1;
         border-radius: 25px;
@@ -366,8 +366,8 @@ font-family: "Poppins", sans-serif;
     }
     
     .btn-contact:hover {
-        background-color: transparent;
-        color: #fff;
+        background-color: #FEF9E7;
+        color: #000;
     }
     
     .input-container span {
