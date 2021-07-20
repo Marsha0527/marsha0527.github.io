@@ -229,7 +229,7 @@ font-family: "Poppins", sans-serif;
         position: relative;
         width: 100%;
         min-height: 100vh;
-        padding: 8px;
+        padding: 80px;
         margin-top: 2px;
         background-color: #000;
         border-radius: 5px;
@@ -306,7 +306,7 @@ font-family: "Poppins", sans-serif;
     
     .input-container {
         position: relative;
-        margin: 24px 0  ;
+        margin: 8px 0  ;
     }
 
     .input {
