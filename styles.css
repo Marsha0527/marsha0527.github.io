@@ -279,8 +279,8 @@ font-family: "Poppins", sans-serif;
     .circle.two {
         width: 80px;
         height: 80px;
-        top: 80px;
-        right: -10px;
+        top: 60px;
+        right: 10px;
     }
    
 .circle.three {
