@@ -295,7 +295,7 @@ font-family: "Poppins", sans-serif;
     width: 130px;
     height: 130px;
     top: 130px;
-    right: -35px;
+    right: 35px;
 }
 
     .contact-form:before {
