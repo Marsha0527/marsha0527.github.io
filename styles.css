@@ -292,10 +292,10 @@ font-family: "Poppins", sans-serif;
 }
 
 .circle.four {
-    width: 130px;
-    height: 130px;
-    top: 95px;
-    left: -40px;
+    width: 100px;
+    height: 100px;
+    top: 100px;
+    left: 30px;
 }
 
     .contact-form:before {
