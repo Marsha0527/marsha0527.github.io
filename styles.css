@@ -201,7 +201,9 @@ font-family: "Poppins", sans-serif;
     }
         */
         
-#contact-section img {
+#contact-section img-1 {
+    width: 60px;
+    height: 40px;
     border: 5px solid #008ED6;
 }
 
