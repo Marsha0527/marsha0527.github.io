@@ -290,7 +290,7 @@ font-family: "Poppins", sans-serif;
     left: -20px;
 }
 
-.circle.four {
+#contact-section .circle.four {
     width: 80px;
     height: 80px;
     top: 80px;
