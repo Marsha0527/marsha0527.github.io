@@ -207,6 +207,12 @@ font-family: "Poppins", sans-serif;
     border: 5px solid #008ED6;
 }
 
+.img-2 [
+width: 5px;
+height: 100vh;
+border: 5px solid #008ED6;
+}
+
 #contact-section .fas {
     align-items: center;
     justify-content: center;
