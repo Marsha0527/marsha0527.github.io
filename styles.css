@@ -208,10 +208,11 @@ font-family: "Poppins", sans-serif;
     border-radius: 10px;
 }
 
-.img-2 [
+#contact-section .img-2 {
 width: 5px;
 height: 100vh;
 border: 5px solid #008ED6;
+border-radius: 10px;
 }
 
 #contact-section .fas {
