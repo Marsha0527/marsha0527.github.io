@@ -239,10 +239,15 @@ padding: 8px;
     
 #contact-section .container-image {
     background-color: #000;
+    align-content: center;
+    justify-content: center;
+    padding-left: 24px;
+    padding-right: 24px;
 }
 
 
 #contact-section .card-text {
+    display: flex;
     border-radius: 5px;
     border: 1px solid #000;
     background-color: #C2EBFF;
