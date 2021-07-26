@@ -210,11 +210,16 @@ font-family: "Poppins", sans-serif;
     padding: 16px;
 }
 
-#contact-section .img-2 {
+.img-2 {
 width: 5px;
 height: 100vh;
 border: 5px solid #008ED6;
 border-radius: 10px;
+}
+
+.card-text {
+    background-color: #F4D03F;
+    padding: 8px;
 }
 
 #contact-section .fas {
