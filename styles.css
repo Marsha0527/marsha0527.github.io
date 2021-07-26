@@ -123,6 +123,24 @@ font-family: "Poppins", sans-serif;
     border: 5px solid #000;
 }
       
+.img-1 {
+    width: 5px;
+    height: 100vh;
+    border: 5px solid #008ED6;
+    border-radius: 10px;
+    background-color: #F4D03F;
+    padding: 8px;
+}
+
+.img-2 {
+width: 5px;
+height: 100vh;
+border: 5px solid #008ED6;
+border-radius: 10px;
+background-color: #F4D03F;
+padding: 8px;
+}
+
     #projects-section {
         magin-top: 5px;
         background:  #fdf3cf;
@@ -206,23 +224,6 @@ font-family: "Poppins", sans-serif;
     flex-direction: column;
 }
 
-.img-1 {
-    width: 5px;
-    height: 100vh;
-    border: 5px solid #008ED6;
-    border-radius: 10px;
-    background-color: #F4D03F;
-    padding: 8px;
-}
-
-.img-2 {
-width: 5px;
-height: 100vh;
-border: 5px solid #008ED6;
-border-radius: 10px;
-background-color: #F4D03F;
-padding: 8px;
-}
 
 #contact-section .card-text {
     border-radius: 5px;
