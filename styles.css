@@ -237,6 +237,10 @@ padding: 8px;
     border: 5px solid #000;
 }
     
+#contact-section .container-image {
+    background-color: #000;
+}
+
 
 #contact-section .card-text {
     border-radius: 5px;
