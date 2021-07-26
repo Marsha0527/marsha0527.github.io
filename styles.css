@@ -219,7 +219,7 @@ background-color: #F4D03F;
 padding: 8px;
 }
 
-.card-text {
+#contact-section .card-text {
     background-color: #C2EBFF;
     padding-left: 8px;
     padding-right: 8px;
