@@ -215,11 +215,14 @@ width: 5px;
 height: 100vh;
 border: 5px solid #008ED6;
 border-radius: 10px;
+background-color: #F4D03F;
+padding: 8px;
 }
 
 .card-text {
     background-color: #F4D03F;
-    padding: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
 }
 
 #contact-section .fas {
