@@ -201,6 +201,11 @@ font-family: "Poppins", sans-serif;
     }
         */
         
+#contact-section .d-flex {
+    display: flex;
+    flex-direction: column;
+}
+
 .img-1 {
     width: 5px;
     height: 100vh;
