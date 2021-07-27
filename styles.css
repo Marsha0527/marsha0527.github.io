@@ -618,9 +618,11 @@ padding: 8px;
     .text {
         margin: 16px 0 24px 0;
 }
+    
     .social-media {
         padding: 24px 0 0 0;
     }
+    
     }
 
 @media (max-width: 480px) {
