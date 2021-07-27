@@ -541,11 +541,11 @@ padding: 8px;
     margin-right: 8px;
     transition: 0,3s;
 }
-
+/*
 .social-icons a:hover {
     transform-scale: (1.05);
 }
-
+*/
 .contact-info:before {
     content: "";
     position: absolute;
