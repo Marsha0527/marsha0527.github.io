@@ -128,6 +128,11 @@ font-family: "Poppins", sans-serif;
         background:  #fdf3cf;
     }
     
+.card-text {
+    font-size: 1.75rem;
+    padding: .5rem;
+}
+
     .card-text .btn {
     padding: 15px 25px;
     font-size: 24px;
