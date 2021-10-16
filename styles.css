@@ -178,12 +178,8 @@ h3 {
     border: green 3px solid;
     color: #000;
 }
-
-#contact-section .col {
-  border: yellow 3px solid;
-}
     
-#contact-head-section h4{
+#contact-head-section h4 {
    background-color: #FEF9E7;
     font-size: 56px;
     font-weight: normal;
@@ -193,8 +189,7 @@ h3 {
     text-shadow: 2px 2px 2px #008ED6;
 }
 
-
-  #contact-head-section {
+#contact-head-section {
       background-color: #FEF9E7;
       color: #000;
       font-weight: normal;
