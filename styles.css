@@ -689,3 +689,11 @@ padding: 8px;
 @media screen and (max-width: 1392px) {
     font-size: 6.5rem;
 }
+
+@media screen and (max-width: 992px) {
+    font-size: 5rem;
+}
+
+@media screen and (max-width: 680px) {
+    font-size: 4.5rem;
+}
