@@ -43,7 +43,7 @@ font-family: "Poppins", sans-serif;
 }
 
 #home-section {
-    background: url(images/andrea-davis-Xw90OX-5yUA-unsplash.jpg);
+    background: url(images/andrea-davis-Xw90OX-5yUA-unsplash.jpg) style: height: 65%;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
