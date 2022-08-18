@@ -89,12 +89,12 @@ font-family: "Poppins", sans-serif;
 }    
 
 #home-section .home-inner h1 {
-    color: #000000;
+    color: #F2F2F2;
     font-size: 52px;
     padding-top: 30px;
     word-spacing: 3px;
     letter-spacing: 1px;
-    text-shadow: 1px 1px 1px #F0F0F0;
+    text-shadow: 1px 1px 1px #000000;
 }
 
 #projects-head-section h4{
