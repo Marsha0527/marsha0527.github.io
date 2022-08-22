@@ -25,7 +25,7 @@ font-family: "Dancing script", sans-serif;
 .navbar {
     margin-top: 0px;
     margin-bottom: 0px;
-    border-bottom: #F4D03F 7px solid;
+    border-bottom: ##F2F2F2 7px solid;
     opacity: 0.9;
 }
 
@@ -41,7 +41,7 @@ font-family: "Dancing script", sans-serif;
 }
 
     a:hover {
-        background-color: #fff;
+        background-color: #F2F2F2;
 }
 
 #home-section {
@@ -54,7 +54,7 @@ font-family: "Dancing script", sans-serif;
     text-color: #F2F2F2; 
     }
     
-     .fab {
+   /*  .fab {
          text-align: center;
          border-style: solid;
          background-color: #000;
@@ -62,7 +62,7 @@ font-family: "Dancing script", sans-serif;
          width: 80px;
          padding-top: 5px;
          padding-bottom: 5px;
-      /*   margin: 15px 45px 45px 15px;   */
+         margin: 15px 45px 45px 15px;   */
 }
     
     .d-flex {
@@ -82,19 +82,19 @@ font-family: "Dancing script", sans-serif;
     background: rgba(0,0,0,0.7);
 }
 
-#home-section .home-inner {
+/*   #home-section .home-inner {
     color: #000000;
     word-spacing: 5px;
     letter-spacing: 1px;
-    padding-top: 0px;
+    padding-top: 0px;   */
     
 }    
 
 #home-section .home-inner h4 {
-    color: #F2F2F2;
+    color: #47EED6;
     font-family: dancing script, sans-serif;
     font-size: 25px;
-    padding-top: 10px;
+    padding-top: 30px;
     word-spacing: 2.5px;
     letter-spacing: 1px;
     text-shadow: 1.25px 1.25px 1.25px #000000;
@@ -105,13 +105,13 @@ font-family: "Dancing script", sans-serif;
     font-size: 35px;
     font-weight: normal;
     letter-spacing: 1px;
-    color: #000;
-    text-shadow: 2px 2px 2px #008ED6;
+    color: #47EED6;
+    text-shadow: 2px 2px 2px #000000;
 }
 
 #projects-head-section {
     background-color: #F2F2F2;
-    color: #000;
+    color: #47EED6;
     font-weight: normal;
     word-spacing: 2px;
 }
