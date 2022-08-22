@@ -37,7 +37,7 @@ font-family: "Dancing script", sans-serif;
     }
     
 #main-nav .nav-link {
-    color: #5AF;
+    color: #47EED6;
 }
 
     a:hover {
@@ -101,7 +101,7 @@ font-family: "Dancing script", sans-serif;
 }
 
 #projects-head-section h4{
-    background-color: #FEF9E7;
+    background-color: #F2F2F2;
     font-size: 56px;
     font-weight: normal;
     letter-spacing: 1px;
@@ -110,7 +110,7 @@ font-family: "Dancing script", sans-serif;
 }
 
 #projects-head-section {
-    background-color: #FEF9E7;
+    background-color: #F2F2F2;
     color: #000;
     font-weight: normal;
     word-spacing: 2px;
