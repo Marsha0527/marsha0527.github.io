@@ -117,7 +117,7 @@ font-family: "Dancing script", sans-serif;
 }
 
 #projects-section .card-columns {
-    background-color: #1c2e4a;
+    background-color: #F2F2F2;
     font-size: 12px;
     display: flex;
     flex-direction: columns;
@@ -128,7 +128,7 @@ font-family: "Dancing script", sans-serif;
       
  #projects-section {
         magin-top: 5px;
-        background:  #fdf3cf;
+        background:  #F2F2F2;
     }
     
 .card-text {
@@ -141,28 +141,28 @@ font-family: "Dancing script", sans-serif;
     font-size: 24px;
     text-align: center;
     cursor: pointer;
-    outline: #5AF;
-    color: #5AF;
+    outline: #47EED6;
+    color: #47EED6;
     border: none;
     border-radius: 15px;
-    box-shadow: 0 9px #999;
+    box-shadow: 0 9px #000000;
 }
 
-.btn:hover {background-color: #5AF}
+.btn:hover {background-color: #47EED6}
 
 .btn:active {
-    background-color: #5AF;
+    background-color: #47EED6;
     box-shadow: 0 5px #666;
     transform: translateY(4px);
 }
 
 h3 {
-     background-color: #FEF9E7;
+     background-color: #47EED6;
     font-size: 56px;
     font-weight: normal;
     letter-spacing: 1px;
     color: #000;
-    text-shadow: 2px 2px 2px #008ED6;   
+    text-shadow: 2px 2px 2px #000000;   
 }
 
 #contact-section h4 {
