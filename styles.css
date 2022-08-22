@@ -13,7 +13,7 @@ body {
     background: #47EED6;
     color: #F2F2F2;
     font-family: Georgia, Helvetica, sans-serif;
-    font-size: 18px;
+    font-size: 16px;
 }
 
 body, 
@@ -93,7 +93,7 @@ font-family: "Dancing script", sans-serif;
 #home-section .home-inner h4 {
     color: #F2F2F2;
     font-family: dancing script, sans-serif;
-    font-size: 30px;
+    font-size: 25px;
     padding-top: 10px;
     word-spacing: 2.5px;
     letter-spacing: 1px;
@@ -102,7 +102,7 @@ font-family: "Dancing script", sans-serif;
 
 #projects-head-section h4{
     background-color: #F2F2F2;
-    font-size: 56px;
+    font-size: 35px;
     font-weight: normal;
     letter-spacing: 1px;
     color: #000;
