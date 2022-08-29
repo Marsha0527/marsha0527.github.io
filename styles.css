@@ -199,7 +199,7 @@ h3 {
     
 #contact-head-section .container {
     color: #000;
-    background: #FEF9E7;
+    background: #47EED6;
     padding: 5px;
     border-radius: 5px;
 }
@@ -209,7 +209,7 @@ h3 {
         flex-direction: columns;
         align-items: center;
         justify-content: center;
-        background-color: #fdf3cf;
+        background-color: #F2F2F2;
          }
     
     @keyframes modalopen {
@@ -277,14 +277,14 @@ padding: 8px;
 #contact-section .fas {
     align-items: center;
     justify-content: center;
-    color: #008ed6;
+    color: #47EED6;
     background: #000;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 20px;
     padding-right: 20px;
     border-radius: 5px;
-    border: 5px solid #008ED6;
+    border: 5px solid #F2F2F2;
     margin: 45px 45px 45px 45px;
 }
 /*
@@ -314,7 +314,7 @@ padding: 8px;
     .form {
         width: 100%;
         max-width: 820;
-        background-color: #66BBE6;
+        background-color: #47EED6;
         border-radius: 10px;
         box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.1);
         z-index: 1000;
@@ -324,15 +324,8 @@ padding: 8px;
             }
        
     .contact-form {
-        background-color: #B2DDF2;
+        background-color: #47EED6;
         position: relative;
-    }
-
-#contact-section .circle.four {
-    width: 80px;
-    height: 80px;
-    top: 80px;
-    left: 30px;
 }
 
     .contact-form:before {
@@ -340,7 +333,7 @@ padding: 8px;
         position: absolute;
         width: 26px;
         height: 26px;
-        background-color: #66BBE6;
+        background-color: #47EED6;
         transform: rotate(45deg);
         top: 50px;
         left: -13px;
