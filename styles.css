@@ -177,22 +177,22 @@ h3 {
 
 #contact-section {
     background-color: #F2F2F2;
-    border: blue 3px solid;
+    border: #47EED6 3px solid;
     color: #000;
 }
     
 #contact-head-section h4 {
-   background-color: #FEF9E7;
+   background-color: #F2F2F2;
     font-size: 56px;
     font-weight: normal;
     letter-spacing: 1px;
     word-spacing: 2px;
     color: #000;
-    text-shadow: 2px 2px 2px #008ED6;
+    text-shadow: 2px 2px 2px #47EED6;
 }
 
 #contact-head-section {
-      background-color: #FEF9E7;
+      background-color: #F2F2F2;
       color: #000;
       font-weight: normal;
 }
