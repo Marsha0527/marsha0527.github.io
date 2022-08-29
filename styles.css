@@ -54,7 +54,7 @@ font-family: "Dancing script", sans-serif;
     text-color: #F2F2F2; 
     }
     
-   /*  .fab {
+     .fab {
          text-align: center;
          border-style: solid;
          background-color: #000;
@@ -62,7 +62,7 @@ font-family: "Dancing script", sans-serif;
          width: 80px;
          padding-top: 5px;
          padding-bottom: 5px;
-         margin: 15px 45px 45px 15px;   */
+         margin: 15px 45px 45px 15px;   
 }
     
     .d-flex {
@@ -82,11 +82,11 @@ font-family: "Dancing script", sans-serif;
     background: rgba(0,0,0,0.7);
 }
 
-/*   #home-section .home-inner {
+   #home-section .home-inner {
     color: #000000;
     word-spacing: 5px;
     letter-spacing: 1px;
-    padding-top: 0px;   */
+    padding-top: 0px;   
     
 }    
 
@@ -105,13 +105,13 @@ font-family: "Dancing script", sans-serif;
     font-size: 35px;
     font-weight: normal;
     letter-spacing: 1px;
-    color: #47EED6;
-    text-shadow: 2px 2px 2px #000000;
+    color: #000000;
+    text-shadow: 2px 2px 2px #47EED6;
 }
 
 #projects-head-section {
     background-color: #F2F2F2;
-    color: #47EED6;
+    color: #000000;
     font-weight: normal;
     word-spacing: 2px;
 }
@@ -161,22 +161,22 @@ h3 {
     font-size: 56px;
     font-weight: normal;
     letter-spacing: 1px;
-    color: #000;
+    color: #F2F2F2;
     text-shadow: 2px 2px 2px #000000;   
 }
 
 #contact-section h4 {
-    background-color: #FEF9E7;
+    background-color: #F2F2F2;
     font-size: 56px;
     font-weight: normal;
     letter-spacing: 1px;
     word-spacing: 2px;
     color: #000;
-    text-shadow: 2px 2px 2px #008ED6;
+    text-shadow: 2px 2px 2px #47EED6;
 }
 
 #contact-section {
-    background-color: #FEF9E7;
+    background-color: #F2F2F2;
     border: blue 3px solid;
     color: #000;
 }
