@@ -264,6 +264,7 @@ padding: 8px;
 
 
 #contact-section .card-text {
+    color: #000000;
     display: flex;
     border-radius: 5px;
     border: 1px solid #000;
