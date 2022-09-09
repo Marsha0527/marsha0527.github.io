@@ -90,7 +90,7 @@ font-family: "Dancing script", sans-serif;
     
 }    
 
-#home-section .home-inner h4 {
+#home-section .home-inner h1 {
     color: #47EED6;
     font-family: dancing script, sans-serif;
     font-size: 25px;
@@ -100,7 +100,7 @@ font-family: "Dancing script", sans-serif;
     text-shadow: 1.25px 1.25px 1.25px #000000;
 }
 
-#ads-head-section h4{
+#ads-head-section h4 {
     background-color: #F2F2F2;
     font-size: 35px;
     font-weight: normal;
