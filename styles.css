@@ -100,7 +100,7 @@ font-family: "Dancing script", sans-serif;
     text-shadow: 1.25px 1.25px 1.25px #000000;
 }
 
-#content-head-section h4{
+#ads-head-section h4{
     background-color: #F2F2F2;
     font-size: 35px;
     font-weight: normal;
@@ -109,14 +109,14 @@ font-family: "Dancing script", sans-serif;
     text-shadow: 2px 2px 2px #47EED6;
 }
 
-#content-head-section {
+#ads-head-section {
     background-color: #F2F2F2;
     color: #000000;
     font-weight: normal;
     word-spacing: 2px;
 }
 
-#content-section .card-columns {
+#ads-section .card-columns {
     background-color: #F2F2F2;
     font-size: 12px;
     display: flex;
@@ -126,7 +126,7 @@ font-family: "Dancing script", sans-serif;
     border: 5px solid #000;
 }
       
- #content-section {
+ #ads-section {
         magin-top: 5px;
         background:  #F2F2F2;
     }
