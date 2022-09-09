@@ -42,6 +42,7 @@ font-family: "Dancing script", sans-serif;
 
     a:hover {
         background-color: #5FD068;
+        border-radius: 5px;
 }
 
 /*   #home-section {
