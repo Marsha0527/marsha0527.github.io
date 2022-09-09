@@ -25,7 +25,7 @@ font-family: "Dancing script", sans-serif;
 .navbar {
     margin-top: 0px;
     margin-bottom: 0px;
-    border-bottom: #4B8673 7px solid;
+    border-bottom: #4B8673 5px solid;
     opacity: 0.9;
 }
 
@@ -86,7 +86,7 @@ font-family: "Dancing script", sans-serif;
     color: #000000;
     word-spacing: 5px;
     letter-spacing: 1px;
-    padding-top: 2px;   
+    padding-top: 5px;   
     
 }    
 
@@ -94,7 +94,7 @@ font-family: "Dancing script", sans-serif;
     color: #4B8673;
     font-family: dancing script, sans-serif;
     font-size: 25px;
-    padding-top: 30px;
+    padding-top: 45px;
     word-spacing: 2.5px;
     letter-spacing: 1px;
     text-shadow: 1.25px 1.25px 1.25px #F6FBF4;
