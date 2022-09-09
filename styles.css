@@ -10,8 +10,8 @@
 }
 
 body {
-    background: #FFF9D7;
-    color: #F2F2F2;
+    background: #F6FBF4;
+    color: #000000;
     font-family: Georgia, Helvetica, sans-serif;
     font-size: 16px;
 }
@@ -25,7 +25,7 @@ font-family: "Dancing script", sans-serif;
 .navbar {
     margin-top: 0px;
     margin-bottom: 0px;
-    border-bottom: #810955 7px solid;
+    border-bottom: #4B8673 7px solid;
     opacity: 0.9;
 }
 
@@ -37,11 +37,11 @@ font-family: "Dancing script", sans-serif;
     }
     
 #main-nav .nav-link {
-    color: #FFF9D7;
+    color: #F5DF99;
 }
 
     a:hover {
-        background-color: #EE81B3;
+        background-color: #5FD068;
 }
 
 /*   #home-section {
@@ -91,26 +91,26 @@ font-family: "Dancing script", sans-serif;
 }    
 
 #home-section .home-inner h1 {
-    color: #610C63;
+    color: #4B8673;
     font-family: dancing script, sans-serif;
     font-size: 25px;
     padding-top: 30px;
     word-spacing: 2.5px;
     letter-spacing: 1px;
-    text-shadow: 1.25px 1.25px 1.25px #FFF9D7;
+    text-shadow: 1.25px 1.25px 1.25px #F6FBF4;
 }
 
 #ads-head-section h4 {
-    background-color: #EE81B3;
+    background-color: #F5DF99;
     font-size: 35px;
     font-weight: normal;
     letter-spacing: 1px;
-    color: #610C63;
-    text-shadow: 2px 2px 2px #FFF9D7;
+    color: #4B8673;
+    text-shadow: 2px 2px 2px #F6FBF4;
 }
 
 #ads-head-section {
-    background-color: #EE81B3;
+    background-color: #F5DF99;
     color: #000000;
     font-weight: normal;
     word-spacing: 2px;
