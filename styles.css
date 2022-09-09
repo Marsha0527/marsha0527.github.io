@@ -105,19 +105,19 @@ font-family: "Dancing script", sans-serif;
     font-size: 35px;
     font-weight: normal;
     letter-spacing: 1px;
-    color: #000000;
+    color: #610C63;
     text-shadow: 2px 2px 2px #FFF9D7;
 }
 
 #ads-head-section {
-    background-color: #F2F2F2;
+    background-color: #EE81B3;
     color: #000000;
     font-weight: normal;
     word-spacing: 2px;
 }
 
 #ads-section .card-columns {
-    background-color: #F2F2F2;
+    background-color: #FFF9D7;
     font-size: 12px;
     display: flex;
     flex-direction: columns;
@@ -128,7 +128,7 @@ font-family: "Dancing script", sans-serif;
       
  #ads-section {
         magin-top: 5px;
-        background:  #F2F2F2;
+        background:  #EE81B3;
     }
     
 .card-text {
