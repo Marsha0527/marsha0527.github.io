@@ -42,6 +42,7 @@ font-family: "Dancing script", sans-serif;
 
     a:hover {
         background-color: #5FD068;
+        color: #000000;
         border-radius: 5px;
 }
 
@@ -118,7 +119,7 @@ font-family: "Dancing script", sans-serif;
 }
 
 #ads-section .card-columns {
-    background-color: #FFF9D7;
+    background-color: #F6FBF4;
     font-size: 12px;
     display: flex;
     flex-direction: columns;
@@ -129,7 +130,7 @@ font-family: "Dancing script", sans-serif;
       
  #ads-section {
         magin-top: 5px;
-        background:  #EE81B3;
+        background:  #F5DF99;
     }
     
 .card-text {
@@ -142,14 +143,14 @@ font-family: "Dancing script", sans-serif;
     font-size: 24px;
     text-align: center;
     cursor: pointer;
-    outline: #47EED6;
+    outline: #5FD068;
     color: #47EED6;
     border: none;
     border-radius: 15px;
     box-shadow: 0 9px #000000;
 }
 
-.btn:hover {background-color: #47EED6}
+.btn:hover {background-color: #f5FD068}
 
 .btn:active {
     background-color: #47EED6;
