@@ -44,7 +44,7 @@ font-family: "Dancing script", sans-serif;
         background-color: #F2F2F2;
 }
 
-#home-section {
+/*   #home-section {
     background: url(images/andrea-davis-Xw90OX-5yUA-unsplash.jpg) style: height: 65%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -52,7 +52,7 @@ font-family: "Dancing script", sans-serif;
     min-height: 700px;
     opacity: 0.9;
     text-color: #F2F2F2; 
-    }
+    }    */
     
      .fab {
          text-align: center;
@@ -73,14 +73,14 @@ font-family: "Dancing script", sans-serif;
     padding: 30px;
 }
         
-#home-section .overlay {
+/*     #home-section .overlay {
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     min-height: 700px;
     background: rgba(0,0,0,0.7);
-}
+}               */
 
    #home-section .home-inner {
     color: #000000;
