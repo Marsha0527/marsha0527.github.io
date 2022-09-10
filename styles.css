@@ -81,9 +81,17 @@ font-family: "Dancing script", sans-serif;
     text-shadow: 1.25px 1.25px 1.25px #F6FBF4;
 }
 
-#ads-head-section h3 {
+#home-section .home-inner h2 {
+    font-family: dancing spript, sans-serif;
+    font-size: 18px;
+    word-spacing: 2.5px;
+    letter-spacing: 1px;
+    color: #4B8673;
+}
+
+#ads-head-section h4 {
     background-color: #F5DF99;
-    font-size: 24px;
+    font-size: 18px;
     font-weight: normal;
     letter-spacing: 1px;
     color: #4B8673;
