@@ -31,7 +31,7 @@ font-family: "Dancing script", sans-serif;
 
 .nav-link {
     padding: 15px;
-    font-size: 24px;
+    font-size: 18px;
     letter-spacing: 4px;
     word-spacing: 20px;
     }
@@ -42,30 +42,9 @@ font-family: "Dancing script", sans-serif;
 
     a:hover {
         background-color: #5FD068;
-        color: #000000;
+        color: #F6FBF4;
         border-radius: 5px;
 }
-
-/*   #home-section {
-    background: url(images/andrea-davis-Xw90OX-5yUA-unsplash.jpg) style: height: 65%;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-    min-height: 700px;
-    opacity: 0.9;
-    text-color: #F2F2F2; 
-    }    
-    
-     .fab {
-         text-align: center;
-         border-style: solid;
-         background-color: #000;
-         border-radius: 5px;
-         width: 80px;
-         padding-top: 5px;
-         padding-bottom: 5px;
-         margin: 15px 45px 45px 15px;   
-}                  */
     
     .d-flex {
     display: flex;
@@ -75,19 +54,19 @@ font-family: "Dancing script", sans-serif;
     padding: 30px;
 }
         
-/*     #home-section .overlay {
+#home-section .overlay {
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     min-height: 700px;
     background: rgba(0,0,0,0.7);
-}               */
+}               
 
    #home-section .home-inner {
     color: #000000;
     word-spacing: 5px;
-    letter-spacing: 1px;
+    letter-spacing: 2px;
     padding-top: 5px;   
     
 }    
@@ -104,7 +83,7 @@ font-family: "Dancing script", sans-serif;
 
 #ads-head-section h3 {
     background-color: #F5DF99;
-    font-size: 35px;
+    font-size: 24px;
     font-weight: normal;
     letter-spacing: 1px;
     color: #4B8673;
